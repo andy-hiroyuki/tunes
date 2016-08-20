@@ -7,7 +7,7 @@
         "filepath": "/materials/decision-overture.mp3",
         "title": "OVERTURE~序曲~",
         "time": 180,
-        "desc": "",
+        "desc": "オリジナルのゲーム音楽を作曲しようと決心して一番最初に書いた曲です。つまり私の作曲の「原点」と言っても過言ではない曲です。好きなものを詰め込み過ぎていますが、そのどれもがファンタジーらしさを表現しようとした結果です。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -19,7 +19,7 @@
         "filepath": "/materials/decision-boukennohajimari.mp3",
         "title": "冒険の始まり",
         "time": 48,
-        "desc": "",
+        "desc": "RPGのタイトル画面で流れているという想定で書きました。このピアノのアルペジオは手癖ではなく、完全に頭の中で鳴っていたものを引きずり出し具現化したものです。弾きにくいフレーズでしたが (笑)",
         "tags": [
           "DECISION",
           "オープニング",
@@ -32,7 +32,7 @@
         "filepath": "/materials/decision-chiheisennokanatahe.mp3",
         "title": "地平線の彼方へ",
         "time": 154,
-        "desc": "",
+        "desc": "「ダイナミクス」を表現したい、その一心で書きました。同じテーマで３回展開します。その為かなり苦労したのを覚えています。イントロのなんとも言えないファンタジーを予感させる空気感が好きです。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -44,7 +44,7 @@
         "filepath": "/materials/decision-mikainochihe.mp3",
         "title": "未開の地へ",
         "time": 171,
-        "desc": "",
+        "desc": "フィールドテーマです。広大で幻想的な場園をイメージしました。明るく始まりますが、曲が展開するにつれて世界観の壮大さも垣間見えるようなフレーズも入れています。「JUPITER-80」のヴァイオリン音色を弾いていたら自然に出てきたメロディを元に構築しました。この音色はとても気に入っており、このアルバム全体を通して使いました。",
         "tags": [
           "DECISION",
           "穏やか",
@@ -57,7 +57,7 @@
         "filepath": "/materials/decision-sworddancer.mp3",
         "title": "ソードダンサー",
         "time": 199,
-        "desc": "",
+        "desc": "初めて書いた「5拍子」で展開するオーケストラのバトル曲です。サビは剣が舞うような疾走感のある、そんなイメージで書きました。正直ゲームにはとても使えないような仕上がりですが、インスト曲として聴く分には面白い風に出来たと思っています。",
         "tags": [
           "DECISION",
           "バトル",
@@ -69,7 +69,7 @@
         "filepath": "/materials/decision-seichounokane.mp3",
         "title": "成長の鐘",
         "time": 70,
-        "desc": "",
+        "desc": "勝利のファンファーレです。後半は経験値やアイテムを取得する場面で流れていそうなキラキラ感を出しました。カリンバとマリンバの音色が綺麗です。",
         "tags": [
           "DECISION",
           "バトル",
@@ -82,7 +82,7 @@
         "filepath": "/materials/decision-oukokukishidan.mp3",
         "title": "王国騎士団",
         "time": 167,
-        "desc": "",
+        "desc": "お城とその城を守る王国騎士団のテーマ曲です。トランペットが大活躍します。イントロのメロディが転調してサビでマイナー調で流れるアレンジが気に入っています。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -94,7 +94,7 @@
         "filepath": "/materials/decision-saikai.mp3",
         "title": "再会",
         "time": 28,
-        "desc": "",
+        "desc": "イベントシーンなどで流れるイメージで書きました。仲間と思わぬところで再会したような、穏やかな印象です。",
         "tags": [
           "DECISION",
           "穏やか",
@@ -107,7 +107,7 @@
         "filepath": "/materials/decision-torus.mp3",
         "title": "貿易都市トーラス",
         "time": 177,
-        "desc": "",
+        "desc": "こちらも5拍子の独特なリズムが印象的な曲です。貿易都市をイメージして、後半は船の汽笛をホルンやストリングスの低音で表現してみました。よくまとまったのでかなりお気に入りです。",
         "tags": [
           "DECISION",
           "明るい",
@@ -119,7 +119,7 @@
         "filepath": "/materials/decision-hitobantomatteikukai.mp3",
         "title": "一晩泊まっていくかい？",
         "time": 17,
-        "desc": "",
+        "desc": "その名の通り、宿屋に泊まった時に流れる曲です。ジングルみたいな感じですね。おやすみなさい★",
         "tags": [
           "DECISION",
           "穏やか",
@@ -131,7 +131,7 @@
         "filepath": "/materials/decision-neige.mp3",
         "title": "雪の国ネージュ",
         "time": 146,
-        "desc": "",
+        "desc": "真っ白な雪の国が舞台です。「未開の地へ」のアレンジになります。壮大な一面を見せる雪国を表現しました。ホルンとハープが活躍します。",
         "tags": [
           "DECISION",
           "神秘的",
@@ -143,7 +143,7 @@
         "filepath": "/materials/decision-tsuioku.mp3",
         "title": "追憶",
         "time": 39,
-        "desc": "",
+        "desc": "アコースティックギターの音色で即興で弾いた曲です。キャラクターたちの過去の日々をイメージして弾きました。",
         "tags": [
           "DECISION",
           "暗い"
@@ -154,7 +154,7 @@
         "filepath": "/materials/decision-river.mp3",
         "title": "水都リーベル",
         "time": 220,
-        "desc": "",
+        "desc": "港町の1日をイメージして書きました。人々の行き交う楽しい雰囲気や、海を感じさせるような構成が気に入っています。",
         "tags": [
           "DECISION",
           "明るい",
@@ -166,7 +166,7 @@
         "filepath": "/materials/decision-mizunodoukutsu.mp3",
         "title": "水の洞窟",
         "time": 175,
-        "desc": "",
+        "desc": "水がテーマのダンジョン曲です。途中よりミニマル的な要素を含んでいます。",
         "tags": [
           "DECISION",
           "暗い",
@@ -178,7 +178,7 @@
         "filepath": "/materials/decision-kunossosu.mp3",
         "title": "クノッソス迷宮",
         "time": 197,
-        "desc": "",
+        "desc": "遺跡のテーマ。明るさと、暗さの両方を表現したかったダンジョン曲です。ストリングスの低音の雰囲気とか気に入ってます。",
         "tags": [
           "DECISION",
           "暗い",
@@ -191,7 +191,7 @@
         "filepath": "/materials/decision-kazenodaichi.mp3",
         "title": "風の大地",
         "time": 190,
-        "desc": "",
+        "desc": "冒険が中盤に差し掛かったあたりに流れるフィールド曲のイメージで書きました。疾走感漂う、勢いのあるメロディがとても気に入ってます。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -204,7 +204,7 @@
         "filepath": "/materials/decision-mizunosono.mp3",
         "title": "水の園",
         "time": 221,
-        "desc": "",
+        "desc": "「楽園」がテーマの曲です。エデン的な雰囲気を出したかったのですが、どうでしょうか？当サイトの「水の巫女」のアレンジ曲になります。",
         "tags": [
           "DECISION",
           "神秘的",
@@ -216,7 +216,7 @@
         "filepath": "/materials/decision-mizunomiko.mp3",
         "title": "水の巫女",
         "time": 106,
-        "desc": "",
+        "desc": "ヴァイオリンのメロディを、これ以上に無いくらい感情を込めてレコーディングしたのを覚えています。神秘的な曲です。",
         "tags": [
           "DECISION",
           "暗い",
@@ -229,7 +229,7 @@
         "filepath": "/materials/decision-hikaritoyaminohazamahe.mp3",
         "title": "光と闇の狭間へ",
         "time": 116,
-        "desc": "",
+        "desc": "クラシック的な様式美な響きを持った壮大な曲です。初期に書いた曲でドライブ感のある展開、メロディで、自分でもなかなか作ろうにも作れないような個性的な曲だと思います。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -242,7 +242,7 @@
         "filepath": "/materials/decision-souennorekuiemu.mp3",
         "title": "蒼炎のレクイエム",
         "time": 94,
-        "desc": "",
+        "desc": "「JUPITER 80」のある音色のシーケンスパターンを使った実験的に構築した曲です。旋律の動きは即興で弾いたものを採用しています。まさに感性だけで作った曲です。",
         "tags": [
           "DECISION",
           "暗い",
@@ -255,7 +255,7 @@
         "filepath": "/materials/decision-shironosekai.mp3",
         "title": "白の世界",
         "time": 90,
-        "desc": "",
+        "desc": "ピアノの即興力を生かして書いた曲です。幻想的なシーンを思い浮かべました。",
         "tags": [
           "DECISION",
           "明るい",
@@ -269,7 +269,7 @@
         "filepath": "/materials/decision-kiminohitomitokyoukainohana.mp3",
         "title": "君の瞳と教会の花",
         "time": 136,
-        "desc": "",
+        "desc": "主人公とヒロインの結婚式で流れていそうなエンディングのシーンを思い浮かべて書きました。ハッピーエンドで、壮大に展開します。",
         "tags": [
           "DECISION",
           "明るい",
@@ -282,7 +282,7 @@
         "filepath": "/materials/decision-boukennokirokuwokokohe.mp3",
         "title": "冒険の記録をここに…",
         "time": 162,
-        "desc": "",
+        "desc": "1時間で即興で作った曲で、映画音楽的なイメージで書きました。冒険の舞台に幕を降ろす曲です。",
         "tags": [
           "DECISION",
           "エンディング",
@@ -1729,7 +1729,7 @@
         "filepath": "/materials/decision-seichounokane.mp3",
         "title": "成長の鐘",
         "time": 70,
-        "desc": "",
+        "desc": "勝利のファンファーレです。後半は経験値やアイテムを取得する場面で流れていそうなキラキラ感を出しました。カリンバとマリンバの音色が綺麗です。",
         "tags": [
           "DECISION",
           "バトル",
@@ -1742,7 +1742,7 @@
         "filepath": "/materials/decision-saikai.mp3",
         "title": "再会",
         "time": 28,
-        "desc": "",
+        "desc": "イベントシーンなどで流れるイメージで書きました。仲間と思わぬところで再会したような、穏やかな印象です。",
         "tags": [
           "DECISION",
           "穏やか",
@@ -1755,7 +1755,7 @@
         "filepath": "/materials/decision-torus.mp3",
         "title": "貿易都市トーラス",
         "time": 177,
-        "desc": "",
+        "desc": "こちらも5拍子の独特なリズムが印象的な曲です。貿易都市をイメージして、後半は船の汽笛をホルンやストリングスの低音で表現してみました。よくまとまったのでかなりお気に入りです。",
         "tags": [
           "DECISION",
           "明るい",
@@ -1767,7 +1767,7 @@
         "filepath": "/materials/decision-hitobantomatteikukai.mp3",
         "title": "一晩泊まっていくかい？",
         "time": 17,
-        "desc": "",
+        "desc": "その名の通り、宿屋に泊まった時に流れる曲です。ジングルみたいな感じですね。おやすみなさい★",
         "tags": [
           "DECISION",
           "穏やか",
@@ -1779,7 +1779,7 @@
         "filepath": "/materials/decision-river.mp3",
         "title": "水都リーベル",
         "time": 220,
-        "desc": "",
+        "desc": "港町の1日をイメージして書きました。人々の行き交う楽しい雰囲気や、海を感じさせるような構成が気に入っています。",
         "tags": [
           "DECISION",
           "明るい",
@@ -1791,7 +1791,7 @@
         "filepath": "/materials/decision-kazenodaichi.mp3",
         "title": "風の大地",
         "time": 190,
-        "desc": "",
+        "desc": "冒険が中盤に差し掛かったあたりに流れるフィールド曲のイメージで書きました。疾走感漂う、勢いのあるメロディがとても気に入ってます。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -1804,7 +1804,7 @@
         "filepath": "/materials/decision-shironosekai.mp3",
         "title": "白の世界",
         "time": 90,
-        "desc": "",
+        "desc": "ピアノの即興力を生かして書いた曲です。幻想的なシーンを思い浮かべました。",
         "tags": [
           "DECISION",
           "明るい",
@@ -1818,7 +1818,7 @@
         "filepath": "/materials/decision-kiminohitomitokyoukainohana.mp3",
         "title": "君の瞳と教会の花",
         "time": 136,
-        "desc": "",
+        "desc": "主人公とヒロインの結婚式で流れていそうなエンディングのシーンを思い浮かべて書きました。ハッピーエンドで、壮大に展開します。",
         "tags": [
           "DECISION",
           "明るい",
@@ -2094,7 +2094,7 @@
         "filepath": "/materials/decision-tsuioku.mp3",
         "title": "追憶",
         "time": 39,
-        "desc": "",
+        "desc": "アコースティックギターの音色で即興で弾いた曲です。キャラクターたちの過去の日々をイメージして弾きました。",
         "tags": [
           "DECISION",
           "暗い"
@@ -2105,7 +2105,7 @@
         "filepath": "/materials/decision-mizunodoukutsu.mp3",
         "title": "水の洞窟",
         "time": 175,
-        "desc": "",
+        "desc": "水がテーマのダンジョン曲です。途中よりミニマル的な要素を含んでいます。",
         "tags": [
           "DECISION",
           "暗い",
@@ -2117,7 +2117,7 @@
         "filepath": "/materials/decision-kunossosu.mp3",
         "title": "クノッソス迷宮",
         "time": 197,
-        "desc": "",
+        "desc": "遺跡のテーマ。明るさと、暗さの両方を表現したかったダンジョン曲です。ストリングスの低音の雰囲気とか気に入ってます。",
         "tags": [
           "DECISION",
           "暗い",
@@ -2130,7 +2130,7 @@
         "filepath": "/materials/decision-mizunomiko.mp3",
         "title": "水の巫女",
         "time": 106,
-        "desc": "",
+        "desc": "ヴァイオリンのメロディを、これ以上に無いくらい感情を込めてレコーディングしたのを覚えています。神秘的な曲です。",
         "tags": [
           "DECISION",
           "暗い",
@@ -2143,7 +2143,7 @@
         "filepath": "/materials/decision-souennorekuiemu.mp3",
         "title": "蒼炎のレクイエム",
         "time": 94,
-        "desc": "",
+        "desc": "「JUPITER 80」のある音色のシーケンスパターンを使った実験的に構築した曲です。旋律の動きは即興で弾いたものを採用しています。まさに感性だけで作った曲です。",
         "tags": [
           "DECISION",
           "暗い",
@@ -2463,7 +2463,7 @@
         "filepath": "/materials/decision-mikainochihe.mp3",
         "title": "未開の地へ",
         "time": 171,
-        "desc": "",
+        "desc": "フィールドテーマです。広大で幻想的な場園をイメージしました。明るく始まりますが、曲が展開するにつれて世界観の壮大さも垣間見えるようなフレーズも入れています。「JUPITER-80」のヴァイオリン音色を弾いていたら自然に出てきたメロディを元に構築しました。この音色はとても気に入っており、このアルバム全体を通して使いました。",
         "tags": [
           "DECISION",
           "穏やか",
@@ -2476,7 +2476,7 @@
         "filepath": "/materials/decision-saikai.mp3",
         "title": "再会",
         "time": 28,
-        "desc": "",
+        "desc": "イベントシーンなどで流れるイメージで書きました。仲間と思わぬところで再会したような、穏やかな印象です。",
         "tags": [
           "DECISION",
           "穏やか",
@@ -2489,7 +2489,7 @@
         "filepath": "/materials/decision-hitobantomatteikukai.mp3",
         "title": "一晩泊まっていくかい？",
         "time": 17,
-        "desc": "",
+        "desc": "その名の通り、宿屋に泊まった時に流れる曲です。ジングルみたいな感じですね。おやすみなさい★",
         "tags": [
           "DECISION",
           "穏やか",
@@ -2501,7 +2501,7 @@
         "filepath": "/materials/decision-river.mp3",
         "title": "水都リーベル",
         "time": 220,
-        "desc": "",
+        "desc": "港町の1日をイメージして書きました。人々の行き交う楽しい雰囲気や、海を感じさせるような構成が気に入っています。",
         "tags": [
           "DECISION",
           "明るい",
@@ -2513,7 +2513,7 @@
         "filepath": "/materials/decision-shironosekai.mp3",
         "title": "白の世界",
         "time": 90,
-        "desc": "",
+        "desc": "ピアノの即興力を生かして書いた曲です。幻想的なシーンを思い浮かべました。",
         "tags": [
           "DECISION",
           "明るい",
@@ -2527,7 +2527,7 @@
         "filepath": "/materials/decision-kiminohitomitokyoukainohana.mp3",
         "title": "君の瞳と教会の花",
         "time": 136,
-        "desc": "",
+        "desc": "主人公とヒロインの結婚式で流れていそうなエンディングのシーンを思い浮かべて書きました。ハッピーエンドで、壮大に展開します。",
         "tags": [
           "DECISION",
           "明るい",
@@ -2764,7 +2764,7 @@
         "filepath": "/materials/decision-overture.mp3",
         "title": "OVERTURE~序曲~",
         "time": 180,
-        "desc": "",
+        "desc": "オリジナルのゲーム音楽を作曲しようと決心して一番最初に書いた曲です。つまり私の作曲の「原点」と言っても過言ではない曲です。好きなものを詰め込み過ぎていますが、そのどれもがファンタジーらしさを表現しようとした結果です。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -2776,7 +2776,7 @@
         "filepath": "/materials/decision-chiheisennokanatahe.mp3",
         "title": "地平線の彼方へ",
         "time": 154,
-        "desc": "",
+        "desc": "「ダイナミクス」を表現したい、その一心で書きました。同じテーマで３回展開します。その為かなり苦労したのを覚えています。イントロのなんとも言えないファンタジーを予感させる空気感が好きです。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -2788,7 +2788,7 @@
         "filepath": "/materials/decision-sworddancer.mp3",
         "title": "ソードダンサー",
         "time": 199,
-        "desc": "",
+        "desc": "初めて書いた「5拍子」で展開するオーケストラのバトル曲です。サビは剣が舞うような疾走感のある、そんなイメージで書きました。正直ゲームにはとても使えないような仕上がりですが、インスト曲として聴く分には面白い風に出来たと思っています。",
         "tags": [
           "DECISION",
           "バトル",
@@ -2800,7 +2800,7 @@
         "filepath": "/materials/decision-seichounokane.mp3",
         "title": "成長の鐘",
         "time": 70,
-        "desc": "",
+        "desc": "勝利のファンファーレです。後半は経験値やアイテムを取得する場面で流れていそうなキラキラ感を出しました。カリンバとマリンバの音色が綺麗です。",
         "tags": [
           "DECISION",
           "バトル",
@@ -2813,7 +2813,7 @@
         "filepath": "/materials/decision-oukokukishidan.mp3",
         "title": "王国騎士団",
         "time": 167,
-        "desc": "",
+        "desc": "お城とその城を守る王国騎士団のテーマ曲です。トランペットが大活躍します。イントロのメロディが転調してサビでマイナー調で流れるアレンジが気に入っています。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -2825,7 +2825,7 @@
         "filepath": "/materials/decision-neige.mp3",
         "title": "雪の国ネージュ",
         "time": 146,
-        "desc": "",
+        "desc": "真っ白な雪の国が舞台です。「未開の地へ」のアレンジになります。壮大な一面を見せる雪国を表現しました。ホルンとハープが活躍します。",
         "tags": [
           "DECISION",
           "神秘的",
@@ -2837,7 +2837,7 @@
         "filepath": "/materials/decision-mizunosono.mp3",
         "title": "水の園",
         "time": 221,
-        "desc": "",
+        "desc": "「楽園」がテーマの曲です。エデン的な雰囲気を出したかったのですが、どうでしょうか？当サイトの「水の巫女」のアレンジ曲になります。",
         "tags": [
           "DECISION",
           "神秘的",
@@ -2849,7 +2849,7 @@
         "filepath": "/materials/decision-hikaritoyaminohazamahe.mp3",
         "title": "光と闇の狭間へ",
         "time": 116,
-        "desc": "",
+        "desc": "クラシック的な様式美な響きを持った壮大な曲です。初期に書いた曲でドライブ感のある展開、メロディで、自分でもなかなか作ろうにも作れないような個性的な曲だと思います。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -2862,7 +2862,7 @@
         "filepath": "/materials/decision-souennorekuiemu.mp3",
         "title": "蒼炎のレクイエム",
         "time": 94,
-        "desc": "",
+        "desc": "「JUPITER 80」のある音色のシーケンスパターンを使った実験的に構築した曲です。旋律の動きは即興で弾いたものを採用しています。まさに感性だけで作った曲です。",
         "tags": [
           "DECISION",
           "暗い",
@@ -2875,7 +2875,7 @@
         "filepath": "/materials/decision-boukennokirokuwokokohe.mp3",
         "title": "冒険の記録をここに…",
         "time": 162,
-        "desc": "",
+        "desc": "1時間で即興で作った曲で、映画音楽的なイメージで書きました。冒険の舞台に幕を降ろす曲です。",
         "tags": [
           "DECISION",
           "エンディング",
@@ -3118,7 +3118,7 @@
         "filepath": "/materials/decision-boukennohajimari.mp3",
         "title": "冒険の始まり",
         "time": 48,
-        "desc": "",
+        "desc": "RPGのタイトル画面で流れているという想定で書きました。このピアノのアルペジオは手癖ではなく、完全に頭の中で鳴っていたものを引きずり出し具現化したものです。弾きにくいフレーズでしたが (笑)",
         "tags": [
           "DECISION",
           "オープニング",
@@ -3131,7 +3131,7 @@
         "filepath": "/materials/decision-mikainochihe.mp3",
         "title": "未開の地へ",
         "time": 171,
-        "desc": "",
+        "desc": "フィールドテーマです。広大で幻想的な場園をイメージしました。明るく始まりますが、曲が展開するにつれて世界観の壮大さも垣間見えるようなフレーズも入れています。「JUPITER-80」のヴァイオリン音色を弾いていたら自然に出てきたメロディを元に構築しました。この音色はとても気に入っており、このアルバム全体を通して使いました。",
         "tags": [
           "DECISION",
           "穏やか",
@@ -3144,7 +3144,7 @@
         "filepath": "/materials/decision-neige.mp3",
         "title": "雪の国ネージュ",
         "time": 146,
-        "desc": "",
+        "desc": "真っ白な雪の国が舞台です。「未開の地へ」のアレンジになります。壮大な一面を見せる雪国を表現しました。ホルンとハープが活躍します。",
         "tags": [
           "DECISION",
           "神秘的",
@@ -3156,7 +3156,7 @@
         "filepath": "/materials/decision-mizunodoukutsu.mp3",
         "title": "水の洞窟",
         "time": 175,
-        "desc": "",
+        "desc": "水がテーマのダンジョン曲です。途中よりミニマル的な要素を含んでいます。",
         "tags": [
           "DECISION",
           "暗い",
@@ -3168,7 +3168,7 @@
         "filepath": "/materials/decision-kunossosu.mp3",
         "title": "クノッソス迷宮",
         "time": 197,
-        "desc": "",
+        "desc": "遺跡のテーマ。明るさと、暗さの両方を表現したかったダンジョン曲です。ストリングスの低音の雰囲気とか気に入ってます。",
         "tags": [
           "DECISION",
           "暗い",
@@ -3181,7 +3181,7 @@
         "filepath": "/materials/decision-mizunosono.mp3",
         "title": "水の園",
         "time": 221,
-        "desc": "",
+        "desc": "「楽園」がテーマの曲です。エデン的な雰囲気を出したかったのですが、どうでしょうか？当サイトの「水の巫女」のアレンジ曲になります。",
         "tags": [
           "DECISION",
           "神秘的",
@@ -3193,7 +3193,7 @@
         "filepath": "/materials/decision-mizunomiko.mp3",
         "title": "水の巫女",
         "time": 106,
-        "desc": "",
+        "desc": "ヴァイオリンのメロディを、これ以上に無いくらい感情を込めてレコーディングしたのを覚えています。神秘的な曲です。",
         "tags": [
           "DECISION",
           "暗い",
@@ -3206,7 +3206,7 @@
         "filepath": "/materials/decision-shironosekai.mp3",
         "title": "白の世界",
         "time": 90,
-        "desc": "",
+        "desc": "ピアノの即興力を生かして書いた曲です。幻想的なシーンを思い浮かべました。",
         "tags": [
           "DECISION",
           "明るい",
@@ -3220,7 +3220,7 @@
         "filepath": "/materials/decision-kiminohitomitokyoukainohana.mp3",
         "title": "君の瞳と教会の花",
         "time": 136,
-        "desc": "",
+        "desc": "主人公とヒロインの結婚式で流れていそうなエンディングのシーンを思い浮かべて書きました。ハッピーエンドで、壮大に展開します。",
         "tags": [
           "DECISION",
           "明るい",
@@ -3463,7 +3463,7 @@
         "filepath": "/materials/decision-torus.mp3",
         "title": "貿易都市トーラス",
         "time": 177,
-        "desc": "",
+        "desc": "こちらも5拍子の独特なリズムが印象的な曲です。貿易都市をイメージして、後半は船の汽笛をホルンやストリングスの低音で表現してみました。よくまとまったのでかなりお気に入りです。",
         "tags": [
           "DECISION",
           "明るい",
@@ -3475,7 +3475,7 @@
         "filepath": "/materials/decision-kazenodaichi.mp3",
         "title": "風の大地",
         "time": 190,
-        "desc": "",
+        "desc": "冒険が中盤に差し掛かったあたりに流れるフィールド曲のイメージで書きました。疾走感漂う、勢いのあるメロディがとても気に入ってます。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -3488,7 +3488,7 @@
         "filepath": "/materials/decision-hikaritoyaminohazamahe.mp3",
         "title": "光と闇の狭間へ",
         "time": 116,
-        "desc": "",
+        "desc": "クラシック的な様式美な響きを持った壮大な曲です。初期に書いた曲でドライブ感のある展開、メロディで、自分でもなかなか作ろうにも作れないような個性的な曲だと思います。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -3666,7 +3666,7 @@
         "filepath": "/materials/decision-kunossosu.mp3",
         "title": "クノッソス迷宮",
         "time": 197,
-        "desc": "",
+        "desc": "遺跡のテーマ。明るさと、暗さの両方を表現したかったダンジョン曲です。ストリングスの低音の雰囲気とか気に入ってます。",
         "tags": [
           "DECISION",
           "暗い",
@@ -3679,7 +3679,7 @@
         "filepath": "/materials/decision-souennorekuiemu.mp3",
         "title": "蒼炎のレクイエム",
         "time": 94,
-        "desc": "",
+        "desc": "「JUPITER 80」のある音色のシーケンスパターンを使った実験的に構築した曲です。旋律の動きは即興で弾いたものを採用しています。まさに感性だけで作った曲です。",
         "tags": [
           "DECISION",
           "暗い",
@@ -4314,7 +4314,7 @@
         "filepath": "/materials/decision-boukennohajimari.mp3",
         "title": "冒険の始まり",
         "time": 48,
-        "desc": "",
+        "desc": "RPGのタイトル画面で流れているという想定で書きました。このピアノのアルペジオは手癖ではなく、完全に頭の中で鳴っていたものを引きずり出し具現化したものです。弾きにくいフレーズでしたが (笑)",
         "tags": [
           "DECISION",
           "オープニング",
@@ -4327,7 +4327,7 @@
         "filepath": "/materials/decision-mizunomiko.mp3",
         "title": "水の巫女",
         "time": 106,
-        "desc": "",
+        "desc": "ヴァイオリンのメロディを、これ以上に無いくらい感情を込めてレコーディングしたのを覚えています。神秘的な曲です。",
         "tags": [
           "DECISION",
           "暗い",
@@ -4340,7 +4340,7 @@
         "filepath": "/materials/decision-shironosekai.mp3",
         "title": "白の世界",
         "time": 90,
-        "desc": "",
+        "desc": "ピアノの即興力を生かして書いた曲です。幻想的なシーンを思い浮かべました。",
         "tags": [
           "DECISION",
           "明るい",
@@ -4543,7 +4543,7 @@
         "filepath": "/materials/decision-sworddancer.mp3",
         "title": "ソードダンサー",
         "time": 199,
-        "desc": "",
+        "desc": "初めて書いた「5拍子」で展開するオーケストラのバトル曲です。サビは剣が舞うような疾走感のある、そんなイメージで書きました。正直ゲームにはとても使えないような仕上がりですが、インスト曲として聴く分には面白い風に出来たと思っています。",
         "tags": [
           "DECISION",
           "バトル",
@@ -4555,7 +4555,7 @@
         "filepath": "/materials/decision-seichounokane.mp3",
         "title": "成長の鐘",
         "time": 70,
-        "desc": "",
+        "desc": "勝利のファンファーレです。後半は経験値やアイテムを取得する場面で流れていそうなキラキラ感を出しました。カリンバとマリンバの音色が綺麗です。",
         "tags": [
           "DECISION",
           "バトル",
@@ -4633,7 +4633,7 @@
         "filepath": "/materials/decision-overture.mp3",
         "title": "OVERTURE~序曲~",
         "time": 180,
-        "desc": "",
+        "desc": "オリジナルのゲーム音楽を作曲しようと決心して一番最初に書いた曲です。つまり私の作曲の「原点」と言っても過言ではない曲です。好きなものを詰め込み過ぎていますが、そのどれもがファンタジーらしさを表現しようとした結果です。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -4645,7 +4645,7 @@
         "filepath": "/materials/decision-boukennohajimari.mp3",
         "title": "冒険の始まり",
         "time": 48,
-        "desc": "",
+        "desc": "RPGのタイトル画面で流れているという想定で書きました。このピアノのアルペジオは手癖ではなく、完全に頭の中で鳴っていたものを引きずり出し具現化したものです。弾きにくいフレーズでしたが (笑)",
         "tags": [
           "DECISION",
           "オープニング",
@@ -4658,7 +4658,7 @@
         "filepath": "/materials/decision-chiheisennokanatahe.mp3",
         "title": "地平線の彼方へ",
         "time": 154,
-        "desc": "",
+        "desc": "「ダイナミクス」を表現したい、その一心で書きました。同じテーマで３回展開します。その為かなり苦労したのを覚えています。イントロのなんとも言えないファンタジーを予感させる空気感が好きです。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -4670,7 +4670,7 @@
         "filepath": "/materials/decision-oukokukishidan.mp3",
         "title": "王国騎士団",
         "time": 167,
-        "desc": "",
+        "desc": "お城とその城を守る王国騎士団のテーマ曲です。トランペットが大活躍します。イントロのメロディが転調してサビでマイナー調で流れるアレンジが気に入っています。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -4682,7 +4682,7 @@
         "filepath": "/materials/decision-kazenodaichi.mp3",
         "title": "風の大地",
         "time": 190,
-        "desc": "",
+        "desc": "冒険が中盤に差し掛かったあたりに流れるフィールド曲のイメージで書きました。疾走感漂う、勢いのあるメロディがとても気に入ってます。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -4695,7 +4695,7 @@
         "filepath": "/materials/decision-hikaritoyaminohazamahe.mp3",
         "title": "光と闇の狭間へ",
         "time": 116,
-        "desc": "",
+        "desc": "クラシック的な様式美な響きを持った壮大な曲です。初期に書いた曲でドライブ感のある展開、メロディで、自分でもなかなか作ろうにも作れないような個性的な曲だと思います。",
         "tags": [
           "DECISION",
           "オープニング",
@@ -4762,7 +4762,7 @@
         "filepath": "/materials/decision-boukennokirokuwokokohe.mp3",
         "title": "冒険の記録をここに…",
         "time": 162,
-        "desc": "",
+        "desc": "1時間で即興で作った曲で、映画音楽的なイメージで書きました。冒険の舞台に幕を降ろす曲です。",
         "tags": [
           "DECISION",
           "エンディング",

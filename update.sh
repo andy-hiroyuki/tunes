@@ -1,6 +1,4 @@
-# Update Musics
-#  - Write taglib info into musics from TSV
-#  - Generate download pages
+#! /bin/sh
+cd $(cd $(dirname ${BASH_SOURCE:-$0}); pwd)
 git pull
-bundle install
-bundle exec ruby restructure.rb
+docker run -it --rm -v `pwd`:/app syon/tunes /bin/bash docker-script.sh
