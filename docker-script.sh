@@ -2,5 +2,5 @@
 bundle install
 bundle exec ruby restructure.rb
 npm install
-npm run build
+npm run pages
 exit
