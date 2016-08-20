@@ -72,7 +72,7 @@
         "tags": [
           "エレクトロン"
         ],
-        "count": 7
+        "count": 8
       },
       {
         "id": "game_lastmonth",
@@ -99,7 +99,7 @@
         "count": 9
       }
     ],
-    "group_count": 139
+    "group_count": 140
   },
   {
     "group_id": "scenes",
@@ -110,7 +110,7 @@
         "tags": [
           "明るい"
         ],
-        "count": 29
+        "count": 30
       },
       {
         "id": "scene_dark",
@@ -126,7 +126,7 @@
         "tags": [
           "穏やか"
         ],
-        "count": 24
+        "count": 25
       },
       {
         "id": "scene_grandeur",
@@ -174,7 +174,7 @@
         "tags": [
           "サイバー"
         ],
-        "count": 7
+        "count": 8
       },
       {
         "id": "scene_piano",
@@ -217,6 +217,6 @@
         "count": 5
       }
     ],
-    "group_count": 253
+    "group_count": 256
   }
 ]
