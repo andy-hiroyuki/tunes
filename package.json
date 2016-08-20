@@ -5,7 +5,8 @@
   "scripts": {
     "watch": "gulp",
     "build": "gulp bundle",
-    "spa": "gulp spa"
+    "spa": "gulp spa",
+    "pages": "gulp pages"
   },
   "dependencies": {
     "axios": "^0.13.1",

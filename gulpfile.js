@@ -64,3 +64,4 @@ gulp.task('coffee', function() {
 gulp.task('default', ['watch', 'less', 'jade', 'coffee']);
 gulp.task('bundle', ['browserify', 'less', 'jade', 'coffee']);
 gulp.task('spa', ['browserify']);
+gulp.task('pages', ['less', 'jade', 'coffee']);
