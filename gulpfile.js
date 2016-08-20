@@ -47,7 +47,7 @@ gulp.task('less', function () {
 });
 
 gulp.task('jade', function () {
-  return gulp.src('./app/**/*.jade')
+  return gulp.src(['./app/**/*.jade', '!./**/_*.jade'])
     .pipe(jade({
       basedir: __dirname,
       locals: {}
