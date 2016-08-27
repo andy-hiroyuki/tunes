@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 刹那の刻 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('和風の「タイトル画面」みたいなのをイメージして書きました。こういう雰囲気をもっと表現したいのですが、まだまだ修行が足りませんね。というわけで、引き続き修行に励みたいと思います。', ["和風短編曲集","緊張感","暗い"])
+
+block track
+  .trackdetail#track_id(data-track="Setsunanokoku")
+    +tracktitle("刹那の刻", "0:47")
+
+    p.taglist
+      +taglist(["和風短編曲集","緊張感","暗い"])
+
+    include /generate/download/player.jade
+
+    p
+      | 和風の「タイトル画面」みたいなのをイメージして書きました。こういう雰囲気をもっと表現したいのですが、まだまだ修行が足りませんね。というわけで、引き続き修行に励みたいと思います。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Setsunanokoku", "刹那の刻")
