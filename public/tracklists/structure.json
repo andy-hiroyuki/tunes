@@ -40,7 +40,7 @@
         "tags": [
           "和風短編曲集"
         ],
-        "count": 11
+        "count": 12
       },
       {
         "id": "game_aquacocktail",
@@ -99,7 +99,7 @@
         "count": 9
       }
     ],
-    "group_count": 143
+    "group_count": 144
   },
   {
     "group_id": "scenes",
@@ -110,7 +110,7 @@
         "tags": [
           "明るい"
         ],
-        "count": 31
+        "count": 32
       },
       {
         "id": "scene_dark",
@@ -126,7 +126,7 @@
         "tags": [
           "穏やか"
         ],
-        "count": 26
+        "count": 27
       },
       {
         "id": "scene_grandeur",
@@ -217,6 +217,6 @@
         "count": 5
       }
     ],
-    "group_count": 263
+    "group_count": 265
   }
 ]
