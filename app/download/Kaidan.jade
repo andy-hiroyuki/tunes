@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 階段 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('おかしい...明らかにさっきも降りた場所だ。その証拠に、手すりに身に覚えのある傷がある。一体どうなっている...まさか...ループしているのか...。', ["時の館","暗い","緊張感"])
+
+block track
+  .trackdetail#track_id(data-track="Kaidan")
+    +tracktitle("階段", "2:03")
+
+    p.taglist
+      +taglist(["時の館","暗い","緊張感"])
+
+    include /generate/download/player.jade
+
+    p
+      | おかしい...明らかにさっきも降りた場所だ。その証拠に、手すりに身に覚えのある傷がある。一体どうなっている...まさか...ループしているのか...。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Kaidan", "階段")

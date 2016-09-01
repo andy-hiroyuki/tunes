@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title Worship -礼拝- - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('ねぇ、あなたはどこから来てどこへ行くの？ いつかわたしも同じ場所へ行くのかしら？フフ、死人に口無し、ね。分かってるわよ、ただ今は静かに祈らせて...。', ["Last Month","神秘的"])
+
+block track
+  .trackdetail#track_id(data-track="Worship")
+    +tracktitle("Worship -礼拝-", "1:54")
+
+    p.taglist
+      +taglist(["Last Month","神秘的"])
+
+    include /generate/download/player.jade
+
+    p
+      | ねぇ、あなたはどこから来てどこへ行くの？ いつかわたしも同じ場所へ行くのかしら？フフ、死人に口無し、ね。分かってるわよ、ただ今は静かに祈らせて...。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Worship", "Worship -礼拝-")

@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 以心伝心 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('落ち着いた雰囲気に加え「間」も適度にあるので、静寂感漂う場面や、修行中的なシーンにいかがでしょう？強いていうなら曲名をかなりテキトーに付けてしまった事だけが気がかりではあります...。', ["和風短編曲集","緊張感","穏やか"])
+
+block track
+  .trackdetail#track_id(data-track="Ishindenshin")
+    +tracktitle("以心伝心", "2:50")
+
+    p.taglist
+      +taglist(["和風短編曲集","緊張感","穏やか"])
+
+    include /generate/download/player.jade
+
+    p
+      | 落ち着いた雰囲気に加え「間」も適度にあるので、静寂感漂う場面や、修行中的なシーンにいかがでしょう？強いていうなら曲名をかなりテキトーに付けてしまった事だけが気がかりではあります...。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Ishindenshin", "以心伝心")

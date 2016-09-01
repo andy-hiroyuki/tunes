@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 村人 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('名も知れぬど田舎にタイムリープした矢先、田舎道を通りがかった村人に「おめぇさん、見たことねぇカッコしてんな。どっから来ただか」とか言われている時に流れる曲です。', ["和風短編曲集","明るい","穏やか"])
+
+block track
+  .trackdetail#track_id(data-track="Murabito")
+    +tracktitle("村人", "1:16")
+
+    p.taglist
+      +taglist(["和風短編曲集","明るい","穏やか"])
+
+    include /generate/download/player.jade
+
+    p
+      | 名も知れぬど田舎にタイムリープした矢先、田舎道を通りがかった村人に「おめぇさん、見たことねぇカッコしてんな。どっから来ただか」とか言われている時に流れる曲です。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Murabito", "村人")

@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title Home -帰還- - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('一つの手紙から始まった今回の旅。ようやく帰れるな…不思議な旅だった。この一ヶ月に起きたことは幻だったような気さえする。しかしなぜ「僕たち」だったんだろう。ふぅ、考えても仕方ないな...さぁ、帰るか…。', ["Last Month","神秘的"])
+
+block track
+  .trackdetail#track_id(data-track="Home")
+    +tracktitle("Home -帰還-", "1:54")
+
+    p.taglist
+      +taglist(["Last Month","神秘的"])
+
+    include /generate/download/player.jade
+
+    p
+      | 一つの手紙から始まった今回の旅。ようやく帰れるな…不思議な旅だった。この一ヶ月に起きたことは幻だったような気さえする。しかしなぜ「僕たち」だったんだろう。ふぅ、考えても仕方ないな...さぁ、帰るか…。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Home", "Home -帰還-")

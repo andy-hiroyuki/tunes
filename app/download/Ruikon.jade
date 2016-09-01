@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 涙痕 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('泣いたのは何年ぶりだろう。泣くという感情がまだオレに残されていたことに驚く。不思議だ、涙を流す度に自分の感情が大きくなる感覚。涙を流すというのは、それだけで大きな意味を持っているのか。', ["時の館","暗い","緊張感","ピアノ"])
+
+block track
+  .trackdetail#track_id(data-track="Ruikon")
+    +tracktitle("涙痕", "2:48")
+
+    p.taglist
+      +taglist(["時の館","暗い","緊張感","ピアノ"])
+
+    include /generate/download/player.jade
+
+    p
+      | 泣いたのは何年ぶりだろう。泣くという感情がまだオレに残されていたことに驚く。不思議だ、涙を流す度に自分の感情が大きくなる感覚。涙を流すというのは、それだけで大きな意味を持っているのか。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Ruikon", "涙痕")
