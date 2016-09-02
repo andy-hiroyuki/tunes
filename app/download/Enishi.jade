@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 縁 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('人生「縁」無くして成り立たず。幾多の出会い、別れを繰り返しながら人は成長していきます。短いメロディの曲ですが、その一瞬で哀愁さを最大限に表現してみました。曲が一旦終わってそのままリピートしても違和感がないように仕上げてみましたので、和風ノベルの「ここぞ」という場面で流していただけると嬉しいです。', ["和風短編曲集","穏やか","悲しい"])
+
+block track
+  .trackdetail#track_id(data-track="Enishi")
+    +tracktitle("縁", "1:16")
+
+    p.taglist
+      +taglist(["和風短編曲集","穏やか","悲しい"])
+
+    include /generate/download/player.jade
+
+    p
+      | 人生「縁」無くして成り立たず。幾多の出会い、別れを繰り返しながら人は成長していきます。短いメロディの曲ですが、その一瞬で哀愁さを最大限に表現してみました。曲が一旦終わってそのままリピートしても違和感がないように仕上げてみましたので、和風ノベルの「ここぞ」という場面で流していただけると嬉しいです。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Enishi", "縁")
