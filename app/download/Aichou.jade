@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 哀調 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('哀しみや、辛さを乗り越えて欲しい、そんな場面をイメージして書きました。キャラクターたちに宿る哀しい情景を描く時、文章と風景だけでそのような雰囲気を作りたい時にいかがでしょうか？', ["和風短編曲集","緊張感","暗い","悲しい"])
+
+block track
+  .trackdetail#track_id(data-track="Aichou")
+    +tracktitle("哀調", "1:31")
+
+    p.taglist
+      +taglist(["和風短編曲集","緊張感","暗い","悲しい"])
+
+    include /generate/download/player.jade
+
+    p
+      | 哀しみや、辛さを乗り越えて欲しい、そんな場面をイメージして書きました。キャラクターたちに宿る哀しい情景を描く時、文章と風景だけでそのような雰囲気を作りたい時にいかがでしょうか？
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Aichou", "哀調")
