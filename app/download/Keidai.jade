@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 境内 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('神聖なる場所、またはそれに近い現象をイメージしました。複雑に絡むハーモニーが一時不思議な雰囲気を作り出しますが、また元の場所へ戻ってきます。神社、祠、祀りごとなど、幻想的な空間を演出したい時にいかがでしょうか？', ["和風短編曲集","穏やか","神秘的"])
+
+block track
+  .trackdetail#track_id(data-track="Keidai")
+    +tracktitle("境内", "2:15")
+
+    p.taglist
+      +taglist(["和風短編曲集","穏やか","神秘的"])
+
+    include /generate/download/player.jade
+
+    p
+      | 神聖なる場所、またはそれに近い現象をイメージしました。複雑に絡むハーモニーが一時不思議な雰囲気を作り出しますが、また元の場所へ戻ってきます。神社、祠、祀りごとなど、幻想的な空間を演出したい時にいかがでしょうか？
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Keidai", "境内")
