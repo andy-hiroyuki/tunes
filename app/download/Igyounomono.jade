@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 異形の者 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('異形のモノとの出会い。それ即ち「死」か「生」か、というくらいの覚悟が必要。そのような化物、殺し屋、鬼、怨霊などといったモノたちと対峙するシーンにこの曲を添えていただけると怖さ倍増です。「悪霊退散！！」', ["和風短編曲集","暗い","緊張感"])
+
+block track
+  .trackdetail#track_id(data-track="Igyounomono")
+    +tracktitle("異形の者", "3:37")
+
+    p.taglist
+      +taglist(["和風短編曲集","暗い","緊張感"])
+
+    include /generate/download/player.jade
+
+    p
+      | 異形のモノとの出会い。それ即ち「死」か「生」か、というくらいの覚悟が必要。そのような化物、殺し屋、鬼、怨霊などといったモノたちと対峙するシーンにこの曲を添えていただけると怖さ倍増です。「悪霊退散！！」
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Igyounomono", "異形の者")
