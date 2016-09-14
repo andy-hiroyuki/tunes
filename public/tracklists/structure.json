@@ -40,7 +40,7 @@
         "tags": [
           "和風短編曲集"
         ],
-        "count": 20
+        "count": 21
       },
       {
         "id": "game_aquacocktail",
@@ -99,7 +99,7 @@
         "count": 9
       }
     ],
-    "group_count": 155
+    "group_count": 156
   },
   {
     "group_id": "scenes",
@@ -118,7 +118,7 @@
         "tags": [
           "暗い"
         ],
-        "count": 34
+        "count": 35
       },
       {
         "id": "scene_honobono",
@@ -158,7 +158,7 @@
         "tags": [
           "緊張感"
         ],
-        "count": 47
+        "count": 48
       },
       {
         "id": "scene_night",
@@ -217,6 +217,6 @@
         "count": 5
       }
     ],
-    "group_count": 288
+    "group_count": 290
   }
 ]
