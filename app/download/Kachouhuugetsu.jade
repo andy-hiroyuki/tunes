@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 花鳥風月 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('風景、匂いを感じさせるような、そんな曲名通りのイメージをもって書きました。美しい景色やそのような風情などを演出したい時にいかがでしょうか？神秘的な雰囲気も兼ね備えていますので、秋の夜長のお供にもオススメ♪', ["和風短編曲集","緊張感","明るい","神秘的","夜"])
+
+block track
+  .trackdetail#track_id(data-track="Kachouhuugetsu")
+    +tracktitle("花鳥風月", "2:30")
+
+    p.taglist
+      +taglist(["和風短編曲集","緊張感","明るい","神秘的","夜"])
+
+    include /generate/download/player.jade
+
+    p
+      | 風景、匂いを感じさせるような、そんな曲名通りのイメージをもって書きました。美しい景色やそのような風情などを演出したい時にいかがでしょうか？神秘的な雰囲気も兼ね備えていますので、秋の夜長のお供にもオススメ♪
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Kachouhuugetsu", "花鳥風月")
