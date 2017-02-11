@@ -91,6 +91,14 @@
         "count": 4
       },
       {
+        "id": "game_ambient_xmas",
+        "nm": "クリスマスループ曲集",
+        "tags": [
+          "クリスマス"
+        ],
+        "count": 1
+      },
+      {
         "id": "game_other",
         "nm": "その他",
         "tags": [
@@ -99,7 +107,7 @@
         "count": 9
       }
     ],
-    "group_count": 174
+    "group_count": 175
   },
   {
     "group_id": "scenes",
@@ -142,7 +150,7 @@
         "tags": [
           "神秘的"
         ],
-        "count": 38
+        "count": 39
       },
       {
         "id": "scene_speedy",
@@ -217,6 +225,6 @@
         "count": 5
       }
     ],
-    "group_count": 333
+    "group_count": 334
   }
 ]

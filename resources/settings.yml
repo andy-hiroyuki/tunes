@@ -45,9 +45,9 @@
       tags:
         - "ゲーム音楽カバー"
     - id: game_ambient_xmas
-      nm: "クリスマスループ曲集"
+      nm: "真冬のアンビエント"
       tags:
-        - "クリスマス"
+        - "真冬のアンビエント"
     - id: game_other
       nm: "その他"
       tags:
