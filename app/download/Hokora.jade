@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 祠 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('神聖な政ごととか、儀式など、そのようなイメージで作曲しました。琴のアルペジオが絶え間なくバックで流れている感じが神秘的で気に入っています。', ["和風短編曲集","神秘的","明るい","穏やか"])
+
+block track
+  .trackdetail#track_id(data-track="Hokora")
+    +tracktitle("祠", "2:16")
+
+    p.taglist
+      +taglist(["和風短編曲集","神秘的","明るい","穏やか"])
+
+    include /generate/download/player.jade
+
+    p
+      | 神聖な政ごととか、儀式など、そのようなイメージで作曲しました。琴のアルペジオが絶え間なくバックで流れている感じが神秘的で気に入っています。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Hokora", "祠")

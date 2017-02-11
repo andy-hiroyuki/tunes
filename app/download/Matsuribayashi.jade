@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 祭囃子 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('あまり調性感が感じられないので、暗くも明るくもない感じですね。曲名の通り、祭りとか催し事とかをイメージしましたが、このままの音量だと太鼓がうるさいので、音量を下げてなんとなく奥で音が鳴っているような感じにすると雰囲気が出るかもしれませんw', ["和風短編曲集","穏やか","疾走感"])
+
+block track
+  .trackdetail#track_id(data-track="Matsuribayashi")
+    +tracktitle("祭囃子", "2:01")
+
+    p.taglist
+      +taglist(["和風短編曲集","穏やか","疾走感"])
+
+    include /generate/download/player.jade
+
+    p
+      | あまり調性感が感じられないので、暗くも明るくもない感じですね。曲名の通り、祭りとか催し事とかをイメージしましたが、このままの音量だと太鼓がうるさいので、音量を下げてなんとなく奥で音が鳴っているような感じにすると雰囲気が出るかもしれませんw
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Matsuribayashi", "祭囃子")

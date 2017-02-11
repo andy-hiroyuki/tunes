@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 陽気 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('どこか懐かしいメロディは、かつての日本、江戸が思い浮かぶようなイメージで書きました。その中でも、当時の人々の生活や情景が思い浮かぶような展開にしてみました。和風RPGなどの町とかでもいいかも。', ["和風短編曲集","明るい","穏やか"])
+
+block track
+  .trackdetail#track_id(data-track="Youki")
+    +tracktitle("陽気", "2:28")
+
+    p.taglist
+      +taglist(["和風短編曲集","明るい","穏やか"])
+
+    include /generate/download/player.jade
+
+    p
+      | どこか懐かしいメロディは、かつての日本、江戸が思い浮かぶようなイメージで書きました。その中でも、当時の人々の生活や情景が思い浮かぶような展開にしてみました。和風RPGなどの町とかでもいいかも。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Youki", "陽気")

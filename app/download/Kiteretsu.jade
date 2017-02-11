@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 奇天烈 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('首を傾げたくなるような不思議な演出をしたい時にいかがでしょう？ しかしいくら和風っぽい曲名にしたかったからとはいえ、自分のネーミングセンスを疑います。', ["和風短編曲集","緊張感","神秘的"])
+
+block track
+  .trackdetail#track_id(data-track="Kiteretsu")
+    +tracktitle("奇天烈", "1:17")
+
+    p.taglist
+      +taglist(["和風短編曲集","緊張感","神秘的"])
+
+    include /generate/download/player.jade
+
+    p
+      | 首を傾げたくなるような不思議な演出をしたい時にいかがでしょう？ しかしいくら和風っぽい曲名にしたかったからとはいえ、自分のネーミングセンスを疑います。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Kiteretsu", "奇天烈")

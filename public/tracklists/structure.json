@@ -40,7 +40,7 @@
         "tags": [
           "和風短編曲集"
         ],
-        "count": 23
+        "count": 38
       },
       {
         "id": "game_aquacocktail",
@@ -99,7 +99,7 @@
         "count": 9
       }
     ],
-    "group_count": 158
+    "group_count": 173
   },
   {
     "group_id": "scenes",
@@ -110,7 +110,7 @@
         "tags": [
           "明るい"
         ],
-        "count": 38
+        "count": 41
       },
       {
         "id": "scene_dark",
@@ -118,7 +118,7 @@
         "tags": [
           "暗い"
         ],
-        "count": 35
+        "count": 41
       },
       {
         "id": "scene_honobono",
@@ -126,7 +126,7 @@
         "tags": [
           "穏やか"
         ],
-        "count": 33
+        "count": 39
       },
       {
         "id": "scene_grandeur",
@@ -142,7 +142,7 @@
         "tags": [
           "神秘的"
         ],
-        "count": 33
+        "count": 38
       },
       {
         "id": "scene_speedy",
@@ -150,7 +150,7 @@
         "tags": [
           "疾走感"
         ],
-        "count": 18
+        "count": 21
       },
       {
         "id": "scene_tense",
@@ -158,7 +158,7 @@
         "tags": [
           "緊張感"
         ],
-        "count": 49
+        "count": 57
       },
       {
         "id": "scene_night",
@@ -166,7 +166,7 @@
         "tags": [
           "夜"
         ],
-        "count": 6
+        "count": 8
       },
       {
         "id": "scene_cyber",
@@ -190,7 +190,7 @@
         "tags": [
           "バトル"
         ],
-        "count": 7
+        "count": 8
       },
       {
         "id": "scene_opening",
@@ -198,7 +198,7 @@
         "tags": [
           "オープニング"
         ],
-        "count": 10
+        "count": 12
       },
       {
         "id": "scene_ending",
@@ -217,6 +217,6 @@
         "count": 5
       }
     ],
-    "group_count": 296
+    "group_count": 332
   }
 ]

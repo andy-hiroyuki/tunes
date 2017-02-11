@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 夜路 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('夜路っていいですよね。日本の下町、京都の夜とか風情を感じる場所を秋の夜風を感じながら歩くのは格別です。「少し、歩きませんか？」', ["和風短編曲集","穏やか","夜"])
+
+block track
+  .trackdetail#track_id(data-track="Yomichi")
+    +tracktitle("夜路", "3:31")
+
+    p.taglist
+      +taglist(["和風短編曲集","穏やか","夜"])
+
+    include /generate/download/player.jade
+
+    p
+      | 夜路っていいですよね。日本の下町、京都の夜とか風情を感じる場所を秋の夜風を感じながら歩くのは格別です。「少し、歩きませんか？」
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Yomichi", "夜路")
