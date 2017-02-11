@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title Shooting Star - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('', ["真冬のアンビエント","神秘的"])
+
+block track
+  .trackdetail#track_id(data-track="ShootingStar")
+    +tracktitle("Shooting Star", "3:38")
+
+    p.taglist
+      +taglist(["真冬のアンビエント","神秘的"])
+
+    include /generate/download/player.jade
+
+    p
+      | 
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("ShootingStar", "Shooting Star")

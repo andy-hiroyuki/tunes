@@ -40,7 +40,7 @@
         "tags": [
           "和風短編曲集"
         ],
-        "count": 38
+        "count": 37
       },
       {
         "id": "game_aquacocktail",
@@ -91,6 +91,14 @@
         "count": 4
       },
       {
+        "id": "game_daishizen",
+        "nm": "大自然 ~癒やしの空間~",
+        "tags": [
+          "大自然シリーズ"
+        ],
+        "count": 19
+      },
+      {
         "id": "game_ambient_xmas",
         "nm": "真冬のアンビエント",
         "tags": [
@@ -107,7 +115,7 @@
         "count": 9
       }
     ],
-    "group_count": 199
+    "group_count": 217
   },
   {
     "group_id": "scenes",
@@ -150,7 +158,7 @@
         "tags": [
           "神秘的"
         ],
-        "count": 63
+        "count": 81
       },
       {
         "id": "scene_speedy",
@@ -225,6 +233,6 @@
         "count": 5
       }
     ],
-    "group_count": 358
+    "group_count": 376
   }
 ]

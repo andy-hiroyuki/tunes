@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 調和 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('和楽器と環境音をミックスさせた和風リラクゼーション、ヒーリング音楽のようなものを目指しました。夜はこれを流して寝てくださいね。', ["大自然シリーズ","神秘的","穏やか"])
+
+block track
+  .trackdetail#track_id(data-track="Chouwa")
+    +tracktitle("調和", "4:05")
+
+    p.taglist
+      +taglist(["大自然シリーズ","神秘的","穏やか"])
+
+    include /generate/download/player.jade
+
+    p
+      | 和楽器と環境音をミックスさせた和風リラクゼーション、ヒーリング音楽のようなものを目指しました。夜はこれを流して寝てくださいね。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Chouwa", "調和")
