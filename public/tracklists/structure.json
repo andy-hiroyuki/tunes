@@ -96,7 +96,7 @@
         "tags": [
           "真冬のアンビエント"
         ],
-        "count": 1
+        "count": 25
       },
       {
         "id": "game_other",
@@ -107,7 +107,7 @@
         "count": 9
       }
     ],
-    "group_count": 175
+    "group_count": 199
   },
   {
     "group_id": "scenes",
@@ -150,7 +150,7 @@
         "tags": [
           "神秘的"
         ],
-        "count": 39
+        "count": 63
       },
       {
         "id": "scene_speedy",
@@ -225,6 +225,6 @@
         "count": 5
       }
     ],
-    "group_count": 334
+    "group_count": 358
   }
 ]

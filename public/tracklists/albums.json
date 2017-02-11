@@ -2061,6 +2061,270 @@
           "真冬のアンビエント",
           "神秘的"
         ]
+      },
+      {
+        "id": "CoolDown",
+        "filepath": "/materials/CoolDown.mp3",
+        "title": "Cool Down",
+        "time": 165,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "StarRain",
+        "filepath": "/materials/StarRain.mp3",
+        "title": "Star Rain",
+        "time": 249,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "LonelyTime",
+        "filepath": "/materials/LonelyTime.mp3",
+        "title": "Lonely Time",
+        "time": 199,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "Snowman",
+        "filepath": "/materials/Snowman.mp3",
+        "title": "Snowman",
+        "time": 287,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "EveryonesFavorite",
+        "filepath": "/materials/EveryonesFavorite.mp3",
+        "title": "Everyone's Favorite",
+        "time": 192,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "OneSpecialNight",
+        "filepath": "/materials/OneSpecialNight.mp3",
+        "title": "One Special Night",
+        "time": 191,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "EndlessNight",
+        "filepath": "/materials/EndlessNight.mp3",
+        "title": "Endless Night",
+        "time": 329,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "AtHolyNight",
+        "filepath": "/materials/AtHolyNight.mp3",
+        "title": "At Holy Night",
+        "time": 299,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "Yukigesho",
+        "filepath": "/materials/Yukigesho.mp3",
+        "title": "Yukigesho",
+        "time": 235,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "FeelingonChristmas",
+        "filepath": "/materials/FeelingonChristmas.mp3",
+        "title": "Feeling on Christmas",
+        "time": 275,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "SnowRain",
+        "filepath": "/materials/SnowRain.mp3",
+        "title": "Snow Rain",
+        "time": 228,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "EndlessSnow",
+        "filepath": "/materials/EndlessSnow.mp3",
+        "title": "Endless Snow",
+        "time": 268,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "ItsTime",
+        "filepath": "/materials/ItsTime.mp3",
+        "title": "It's Time!!",
+        "time": 193,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "Stealthily",
+        "filepath": "/materials/Stealthily.mp3",
+        "title": "Stealthily",
+        "time": 185,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "RestTime",
+        "filepath": "/materials/RestTime.mp3",
+        "title": "Rest Time",
+        "time": 306,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "Pray",
+        "filepath": "/materials/Pray.mp3",
+        "title": "Pray",
+        "time": 228,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "ShootingStar",
+        "filepath": "/materials/ShootingStar.mp3",
+        "title": "Shooting Star",
+        "time": 218,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "Silence",
+        "filepath": "/materials/Silence.mp3",
+        "title": "Silence",
+        "time": 247,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "WhitePlace",
+        "filepath": "/materials/WhitePlace.mp3",
+        "title": "White Place",
+        "time": 326,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "FeelingonChristmas2",
+        "filepath": "/materials/FeelingonChristmas2.mp3",
+        "title": "Feeling on Christmas#2",
+        "time": 272,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "MidnightPrayer",
+        "filepath": "/materials/MidnightPrayer.mp3",
+        "title": "Midnight Prayer",
+        "time": 240,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "BeforetheEVE",
+        "filepath": "/materials/BeforetheEVE.mp3",
+        "title": "Before the EVE...",
+        "time": 141,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "ALittleChristmas",
+        "filepath": "/materials/ALittleChristmas.mp3",
+        "title": "A Little Christmas",
+        "time": 175,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "HappyWhiteChristmas",
+        "filepath": "/materials/HappyWhiteChristmas.mp3",
+        "title": "Happy White Christmas",
+        "time": 243,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
       }
     ]
   },
@@ -4492,6 +4756,270 @@
         "title": "Beginning of the End",
         "time": 135,
         "desc": "さぁ、12月が始まるよ。",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "CoolDown",
+        "filepath": "/materials/CoolDown.mp3",
+        "title": "Cool Down",
+        "time": 165,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "StarRain",
+        "filepath": "/materials/StarRain.mp3",
+        "title": "Star Rain",
+        "time": 249,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "LonelyTime",
+        "filepath": "/materials/LonelyTime.mp3",
+        "title": "Lonely Time",
+        "time": 199,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "Snowman",
+        "filepath": "/materials/Snowman.mp3",
+        "title": "Snowman",
+        "time": 287,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "EveryonesFavorite",
+        "filepath": "/materials/EveryonesFavorite.mp3",
+        "title": "Everyone's Favorite",
+        "time": 192,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "OneSpecialNight",
+        "filepath": "/materials/OneSpecialNight.mp3",
+        "title": "One Special Night",
+        "time": 191,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "EndlessNight",
+        "filepath": "/materials/EndlessNight.mp3",
+        "title": "Endless Night",
+        "time": 329,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "AtHolyNight",
+        "filepath": "/materials/AtHolyNight.mp3",
+        "title": "At Holy Night",
+        "time": 299,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "Yukigesho",
+        "filepath": "/materials/Yukigesho.mp3",
+        "title": "Yukigesho",
+        "time": 235,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "FeelingonChristmas",
+        "filepath": "/materials/FeelingonChristmas.mp3",
+        "title": "Feeling on Christmas",
+        "time": 275,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "SnowRain",
+        "filepath": "/materials/SnowRain.mp3",
+        "title": "Snow Rain",
+        "time": 228,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "EndlessSnow",
+        "filepath": "/materials/EndlessSnow.mp3",
+        "title": "Endless Snow",
+        "time": 268,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "ItsTime",
+        "filepath": "/materials/ItsTime.mp3",
+        "title": "It's Time!!",
+        "time": 193,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "Stealthily",
+        "filepath": "/materials/Stealthily.mp3",
+        "title": "Stealthily",
+        "time": 185,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "RestTime",
+        "filepath": "/materials/RestTime.mp3",
+        "title": "Rest Time",
+        "time": 306,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "Pray",
+        "filepath": "/materials/Pray.mp3",
+        "title": "Pray",
+        "time": 228,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "ShootingStar",
+        "filepath": "/materials/ShootingStar.mp3",
+        "title": "Shooting Star",
+        "time": 218,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "Silence",
+        "filepath": "/materials/Silence.mp3",
+        "title": "Silence",
+        "time": 247,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "WhitePlace",
+        "filepath": "/materials/WhitePlace.mp3",
+        "title": "White Place",
+        "time": 326,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "FeelingonChristmas2",
+        "filepath": "/materials/FeelingonChristmas2.mp3",
+        "title": "Feeling on Christmas#2",
+        "time": 272,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "MidnightPrayer",
+        "filepath": "/materials/MidnightPrayer.mp3",
+        "title": "Midnight Prayer",
+        "time": 240,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "BeforetheEVE",
+        "filepath": "/materials/BeforetheEVE.mp3",
+        "title": "Before the EVE...",
+        "time": 141,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "ALittleChristmas",
+        "filepath": "/materials/ALittleChristmas.mp3",
+        "title": "A Little Christmas",
+        "time": 175,
+        "desc": "",
+        "tags": [
+          "真冬のアンビエント",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "HappyWhiteChristmas",
+        "filepath": "/materials/HappyWhiteChristmas.mp3",
+        "title": "Happy White Christmas",
+        "time": 243,
+        "desc": "",
         "tags": [
           "真冬のアンビエント",
           "神秘的"
