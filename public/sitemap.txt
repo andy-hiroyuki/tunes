@@ -54,7 +54,6 @@ http://oto-no-sono.com/download/Vacant.html
 http://oto-no-sono.com/download/EnemyRaid.html
 http://oto-no-sono.com/download/Sorrow.html
 http://oto-no-sono.com/download/Operations.html
-http://oto-no-sono.com/download/8bit_sousakaishi.html
 http://oto-no-sono.com/download/MainStreet.html
 http://oto-no-sono.com/download/Profiling.html
 http://oto-no-sono.com/download/Koushouhaomakasekudasai.html
@@ -213,6 +212,7 @@ http://oto-no-sono.com/download/8bit_rockman5.html
 http://oto-no-sono.com/download/8bit_retrotitle.html
 http://oto-no-sono.com/download/8bit_fly.html
 http://oto-no-sono.com/download/8bit_stage2.html
+http://oto-no-sono.com/download/8bit_sousakaishi.html
 http://oto-no-sono.com/download/AttakaShichu.html
 http://oto-no-sono.com/download/HealingVoyager.html
 http://oto-no-sono.com/download/MachiNoTomoshibi.html
