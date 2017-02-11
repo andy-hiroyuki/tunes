@@ -44,6 +44,10 @@
       nm: "ゲーム音楽カバー"
       tags:
         - "ゲーム音楽カバー"
+    - id: game_daishizen
+      nm: "大自然 ~癒やしの空間~"
+      tags:
+        - "大自然シリーズ"
     - id: game_ambient_xmas
       nm: "真冬のアンビエント"
       tags:

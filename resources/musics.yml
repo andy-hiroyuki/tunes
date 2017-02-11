@@ -1127,16 +1127,6 @@
       あまり調性感が感じられないので、暗くも明るくもない感じですね。
       曲名の通り、祭りとか催し事とかをイメージしましたが、このままの音量だと太鼓がうるさいので、音量を下げてなんとなく奥で音が鳴っているような感じにすると雰囲気が出るかもしれませんw
 
-  - :id: Chouwa
-    :title: 調和
-    :tags:
-      - 和風短編曲集
-      - 神秘的
-      - 穏やか
-    :desc: |
-      和楽器と環境音をミックスさせた和風リラクゼーション、ヒーリング音楽のようなものを目指しました。
-      夜はこれを流して寝てくださいね。
-
   - :id: Setsunanokoku
     :title: 刹那の刻
     :tags:
@@ -1768,6 +1758,142 @@
       - 神秘的
     :desc: |
       ...こ、これが...プランク..トン..!?
+
+  - :id: SnowWorld
+    :title: Snow World
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: Lakeside
+    :title: Lakeside
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: FlowofWater
+    :title: Flow of Water
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: MountainRiver
+    :title: Mountain River
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: UnknownPlanet
+    :title: Unknown Planet
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: NightForest
+    :title: Night Forest
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: SecretintheForest
+    :title: Secret in the Forest
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: ForestGrowth
+    :title: Forest Growth
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: VoiceofAngels
+    :title: Voice of Angels
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: SeaofTrees
+    :title: Sea of Trees
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: EternalPromise
+    :title: Eternal Promise
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: NaturalTranquility
+    :title: Natural Tranquility
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: MemoryoftheForest
+    :title: Memory of the Forest
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: VoiceofAngels2
+    :title: Voice of Angels#2
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: CalmPlace
+    :title: Calm Place
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: ALoner
+    :title: A Loner
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: ALonerAG
+    :title: A Loner -A.Guitar Ver-
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: VoiceofAngels3
+    :title: Voice of Angels#3
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+    :desc: |
+
+  - :id: Chouwa
+    :title: 調和
+    :tags:
+      - 大自然シリーズ
+      - 神秘的
+      - 穏やか
+    :desc: |
+      和楽器と環境音をミックスさせた和風リラクゼーション、ヒーリング音楽のようなものを目指しました。
+      夜はこれを流して寝てくださいね。
 
   - :id: BeginningoftheEnd
     :title: Beginning of the End
