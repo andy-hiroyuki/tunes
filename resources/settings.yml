@@ -44,6 +44,10 @@
       nm: "ゲーム音楽カバー"
       tags:
         - "ゲーム音楽カバー"
+    - id: game_ambient_xmas
+      nm: "クリスマスループ曲集"
+      tags:
+        - "クリスマス"
     - id: game_other
       nm: "その他"
       tags:
