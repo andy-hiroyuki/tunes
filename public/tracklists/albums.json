@@ -2049,19 +2049,9 @@
     ]
   },
   "game_ambient_xmas": {
-    "nm": "クリスマスループ曲集",
+    "nm": "真冬のアンビエント",
     "tracks": [
-      {
-        "id": "BeginningoftheEnd",
-        "filepath": "/materials/BeginningoftheEnd.mp3",
-        "title": "Beginning of the End",
-        "time": 135,
-        "desc": "さぁ、12月が始まるよ。    ",
-        "tags": [
-          "クリスマス",
-          "神秘的"
-        ]
-      }
+
     ]
   },
   "game_other": {
