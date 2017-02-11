@@ -56,7 +56,7 @@
         "tags": [
           "探偵"
         ],
-        "count": 9
+        "count": 10
       },
       {
         "id": "game_horror",
@@ -99,7 +99,7 @@
         "count": 9
       }
     ],
-    "group_count": 173
+    "group_count": 174
   },
   {
     "group_id": "scenes",
@@ -182,7 +182,7 @@
         "tags": [
           "ピアノ"
         ],
-        "count": 20
+        "count": 21
       },
       {
         "id": "scene_battle",
@@ -217,6 +217,6 @@
         "count": 5
       }
     ],
-    "group_count": 332
+    "group_count": 333
   }
 ]
