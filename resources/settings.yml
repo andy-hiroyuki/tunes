@@ -8,6 +8,10 @@
       nm: RPG
       tags:
         - RPG
+    - id: game_saga
+      nm: "タクティカルサーガ"
+      tags:
+        - "タクティカルサーガ"
     - id: game_baroque
       nm: "バロックの城"
       tags:
