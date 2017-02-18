@@ -523,6 +523,48 @@
       }
     ]
   },
+  "game_saga": {
+    "nm": "タクティカルサーガ",
+    "tracks": [
+      {
+        "id": "Shukumei",
+        "filepath": "/materials/Shukumei.mp3",
+        "title": "宿命",
+        "time": 102,
+        "desc": "宿命を背負った者達の物語。宿命を乗り越え、英雄は真の英雄となる。",
+        "tags": [
+          "タクティカルサーガ",
+          "オープニング",
+          "悲しい",
+          "壮大"
+        ]
+      },
+      {
+        "id": "Enjin",
+        "filepath": "/materials/Enjin.mp3",
+        "title": "炎陣",
+        "time": 125,
+        "desc": "いかにもなオーソドックスなスタイルのBGMですね。シミュレーションRPGのバトルマップ、会話時に流れていそうなイメージで書きました。変拍子の曲です。",
+        "tags": [
+          "タクティカルサーガ",
+          "バトル",
+          "壮大"
+        ]
+      },
+      {
+        "id": "Shourinomegami",
+        "filepath": "/materials/Shourinomegami.mp3",
+        "title": "勝利の女神",
+        "time": 117,
+        "desc": "勝利の、という曲名ですが、どちらかというと状況が好転している時に合う曲かもしれません。ユニット選択時、制圧時、ポジティブな会話時をイメージしました。あまり重くない序盤の段階でこれから戦うぞ、という雰囲気にもオススメです。",
+        "tags": [
+          "タクティカルサーガ",
+          "明るい",
+          "疾走感"
+        ]
+      }
+    ]
+  },
   "game_baroque": {
     "nm": "バロックの城",
     "tracks": [
@@ -2831,6 +2873,18 @@
         ]
       },
       {
+        "id": "Shourinomegami",
+        "filepath": "/materials/Shourinomegami.mp3",
+        "title": "勝利の女神",
+        "time": 117,
+        "desc": "勝利の、という曲名ですが、どちらかというと状況が好転している時に合う曲かもしれません。ユニット選択時、制圧時、ポジティブな会話時をイメージしました。あまり重くない序盤の段階でこれから戦うぞ、という雰囲気にもオススメです。",
+        "tags": [
+          "タクティカルサーガ",
+          "明るい",
+          "疾走感"
+        ]
+      },
+      {
         "id": "ItsOurTurn",
         "filepath": "/materials/ItsOurTurn.mp3",
         "title": "It's our turn",
@@ -4357,6 +4411,31 @@
         ]
       },
       {
+        "id": "Shukumei",
+        "filepath": "/materials/Shukumei.mp3",
+        "title": "宿命",
+        "time": 102,
+        "desc": "宿命を背負った者達の物語。宿命を乗り越え、英雄は真の英雄となる。",
+        "tags": [
+          "タクティカルサーガ",
+          "オープニング",
+          "悲しい",
+          "壮大"
+        ]
+      },
+      {
+        "id": "Enjin",
+        "filepath": "/materials/Enjin.mp3",
+        "title": "炎陣",
+        "time": 125,
+        "desc": "いかにもなオーソドックスなスタイルのBGMですね。シミュレーションRPGのバトルマップ、会話時に流れていそうなイメージで書きました。変拍子の曲です。",
+        "tags": [
+          "タクティカルサーガ",
+          "バトル",
+          "壮大"
+        ]
+      },
+      {
         "id": "PlayerUnit",
         "filepath": "/materials/PlayerUnit.mp3",
         "title": "Player Unit",
@@ -5502,6 +5581,18 @@
         "tags": [
           "RPG",
           "壮大",
+          "明るい",
+          "疾走感"
+        ]
+      },
+      {
+        "id": "Shourinomegami",
+        "filepath": "/materials/Shourinomegami.mp3",
+        "title": "勝利の女神",
+        "time": 117,
+        "desc": "勝利の、という曲名ですが、どちらかというと状況が好転している時に合う曲かもしれません。ユニット選択時、制圧時、ポジティブな会話時をイメージしました。あまり重くない序盤の段階でこれから戦うぞ、という雰囲気にもオススメです。",
+        "tags": [
+          "タクティカルサーガ",
           "明るい",
           "疾走感"
         ]
@@ -6962,6 +7053,18 @@
         ]
       },
       {
+        "id": "Enjin",
+        "filepath": "/materials/Enjin.mp3",
+        "title": "炎陣",
+        "time": 125,
+        "desc": "いかにもなオーソドックスなスタイルのBGMですね。シミュレーションRPGのバトルマップ、会話時に流れていそうなイメージで書きました。変拍子の曲です。",
+        "tags": [
+          "タクティカルサーガ",
+          "バトル",
+          "壮大"
+        ]
+      },
+      {
         "id": "PreemptiveAttack",
         "filepath": "/materials/PreemptiveAttack.mp3",
         "title": "Preemptive Attack",
@@ -7103,6 +7206,19 @@
           "オープニング",
           "悲しい",
           "神秘的",
+          "壮大"
+        ]
+      },
+      {
+        "id": "Shukumei",
+        "filepath": "/materials/Shukumei.mp3",
+        "title": "宿命",
+        "time": 102,
+        "desc": "宿命を背負った者達の物語。宿命を乗り越え、英雄は真の英雄となる。",
+        "tags": [
+          "タクティカルサーガ",
+          "オープニング",
+          "悲しい",
           "壮大"
         ]
       },

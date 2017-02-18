@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 宿命 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('宿命を背負った者達の物語。宿命を乗り越え、英雄は真の英雄となる。', ["タクティカルサーガ","オープニング","悲しい","壮大"])
+
+block track
+  .trackdetail#track_id(data-track="Shukumei")
+    +tracktitle("宿命", "1:42")
+
+    p.taglist
+      +taglist(["タクティカルサーガ","オープニング","悲しい","壮大"])
+
+    include /generate/download/player.jade
+
+    p
+      | 宿命を背負った者達の物語。宿命を乗り越え、英雄は真の英雄となる。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Shukumei", "宿命")
