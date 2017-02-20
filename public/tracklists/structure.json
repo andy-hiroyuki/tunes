@@ -24,7 +24,7 @@
         "tags": [
           "タクティカルサーガ"
         ],
-        "count": 3
+        "count": 4
       },
       {
         "id": "game_baroque",
@@ -123,7 +123,7 @@
         "count": 10
       }
     ],
-    "group_count": 220
+    "group_count": 221
   },
   {
     "group_id": "scenes",
@@ -134,7 +134,7 @@
         "tags": [
           "明るい"
         ],
-        "count": 42
+        "count": 43
       },
       {
         "id": "scene_dark",
@@ -241,6 +241,6 @@
         "count": 5
       }
     ],
-    "group_count": 382
+    "group_count": 383
   }
 ]
