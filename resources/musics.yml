@@ -439,6 +439,22 @@
       神秘的な空間を意識して仕上げてみましたので、迷いの森や聖なる場所にも合うかも？
       個人的には曲に「匂い」を感じてもらえたら嬉しいです。
 
+  - :id: ALoner
+    :title: A Loner
+    :tags:
+      - RPG
+      - 神秘的
+      - 暗い
+    :desc: |
+
+  - :id: ALoner2
+    :title: A Loner#2
+    :tags:
+      - RPG
+      - 神秘的
+      - 暗い
+    :desc: |
+
   - :id: Sajinnomiyako
     :title: 砂塵の都
     :tags:
@@ -1890,20 +1906,6 @@
 
   - :id: CalmPlace
     :title: Calm Place
-    :tags:
-      - 大自然シリーズ
-      - 神秘的
-    :desc: |
-
-  - :id: ALoner
-    :title: A Loner
-    :tags:
-      - 大自然シリーズ
-      - 神秘的
-    :desc: |
-
-  - :id: ALonerAG
-    :title: A Loner -A.Guitar Ver-
     :tags:
       - 大自然シリーズ
       - 神秘的
