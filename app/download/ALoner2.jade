@@ -3,14 +3,14 @@ extends /generate/download/_layout.jade
 include /generate/download/_mixins.jade
 
 block title
-  title A Loner - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+  title A Loner#2 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
 
 block meta
   +meta('', ["RPG","神秘的","暗い"])
 
 block track
-  .trackdetail#track_id(data-track="ALoner")
-    +tracktitle("A Loner", "3:29")
+  .trackdetail#track_id(data-track="ALoner2")
+    +tracktitle("A Loner#2", "3:29")
 
     p.taglist
       +taglist(["RPG","神秘的","暗い"])
@@ -23,4 +23,4 @@ block track
 block tunescript
   script
     :coffee
-      Tunes.appendSingleTrack("ALoner", "A Loner")
+      Tunes.appendSingleTrack("ALoner2", "A Loner#2")

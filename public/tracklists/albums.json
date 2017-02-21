@@ -497,6 +497,30 @@
         ]
       },
       {
+        "id": "ALoner",
+        "filepath": "/materials/ALoner.mp3",
+        "title": "A Loner",
+        "time": 209,
+        "desc": "",
+        "tags": [
+          "RPG",
+          "神秘的",
+          "暗い"
+        ]
+      },
+      {
+        "id": "ALoner2",
+        "filepath": "/materials/ALoner2.mp3",
+        "title": "A Loner#2",
+        "time": 209,
+        "desc": "",
+        "tags": [
+          "RPG",
+          "神秘的",
+          "暗い"
+        ]
+      },
+      {
         "id": "Sajinnomiyako",
         "filepath": "/materials/Sajinnomiyako.mp3",
         "title": "砂塵の都",
@@ -2247,28 +2271,6 @@
         ]
       },
       {
-        "id": "ALoner",
-        "filepath": "/materials/ALoner.mp3",
-        "title": "A Loner",
-        "time": 216,
-        "desc": "",
-        "tags": [
-          "大自然シリーズ",
-          "神秘的"
-        ]
-      },
-      {
-        "id": "ALonerAG",
-        "filepath": "/materials/ALonerAG.mp3",
-        "title": "A Loner -A.Guitar Ver-",
-        "time": 209,
-        "desc": "",
-        "tags": [
-          "大自然シリーズ",
-          "神秘的"
-        ]
-      },
-      {
         "id": "VoiceofAngels3",
         "filepath": "/materials/VoiceofAngels3.mp3",
         "title": "Voice of Angels#3",
@@ -3309,6 +3311,30 @@
           "RPG",
           "暗い",
           "悲しい"
+        ]
+      },
+      {
+        "id": "ALoner",
+        "filepath": "/materials/ALoner.mp3",
+        "title": "A Loner",
+        "time": 209,
+        "desc": "",
+        "tags": [
+          "RPG",
+          "神秘的",
+          "暗い"
+        ]
+      },
+      {
+        "id": "ALoner2",
+        "filepath": "/materials/ALoner2.mp3",
+        "title": "A Loner#2",
+        "time": 209,
+        "desc": "",
+        "tags": [
+          "RPG",
+          "神秘的",
+          "暗い"
         ]
       },
       {
@@ -4774,6 +4800,30 @@
         ]
       },
       {
+        "id": "ALoner",
+        "filepath": "/materials/ALoner.mp3",
+        "title": "A Loner",
+        "time": 209,
+        "desc": "",
+        "tags": [
+          "RPG",
+          "神秘的",
+          "暗い"
+        ]
+      },
+      {
+        "id": "ALoner2",
+        "filepath": "/materials/ALoner2.mp3",
+        "title": "A Loner#2",
+        "time": 209,
+        "desc": "",
+        "tags": [
+          "RPG",
+          "神秘的",
+          "暗い"
+        ]
+      },
+      {
         "id": "Shimeinohateni",
         "filepath": "/materials/Shimeinohateni.mp3",
         "title": "使命の果てに",
@@ -5201,28 +5251,6 @@
         "filepath": "/materials/CalmPlace.mp3",
         "title": "Calm Place",
         "time": 252,
-        "desc": "",
-        "tags": [
-          "大自然シリーズ",
-          "神秘的"
-        ]
-      },
-      {
-        "id": "ALoner",
-        "filepath": "/materials/ALoner.mp3",
-        "title": "A Loner",
-        "time": 216,
-        "desc": "",
-        "tags": [
-          "大自然シリーズ",
-          "神秘的"
-        ]
-      },
-      {
-        "id": "ALonerAG",
-        "filepath": "/materials/ALonerAG.mp3",
-        "title": "A Loner -A.Guitar Ver-",
-        "time": 209,
         "desc": "",
         "tags": [
           "大自然シリーズ",
