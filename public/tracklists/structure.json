@@ -24,7 +24,7 @@
         "tags": [
           "タクティカルサーガ"
         ],
-        "count": 4
+        "count": 5
       },
       {
         "id": "game_baroque",
@@ -123,7 +123,7 @@
         "count": 10
       }
     ],
-    "group_count": 221
+    "group_count": 222
   },
   {
     "group_id": "scenes",
@@ -158,7 +158,7 @@
         "tags": [
           "壮大"
         ],
-        "count": 30
+        "count": 31
       },
       {
         "id": "scene_mysterious",
@@ -182,7 +182,7 @@
         "tags": [
           "緊張感"
         ],
-        "count": 57
+        "count": 58
       },
       {
         "id": "scene_night",
@@ -241,6 +241,6 @@
         "count": 5
       }
     ],
-    "group_count": 385
+    "group_count": 387
   }
 ]
