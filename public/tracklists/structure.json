@@ -16,7 +16,7 @@
         "tags": [
           "RPG"
         ],
-        "count": 21
+        "count": 22
       },
       {
         "id": "game_saga",
@@ -123,7 +123,7 @@
         "count": 10
       }
     ],
-    "group_count": 222
+    "group_count": 223
   },
   {
     "group_id": "scenes",
@@ -134,7 +134,7 @@
         "tags": [
           "明るい"
         ],
-        "count": 43
+        "count": 44
       },
       {
         "id": "scene_dark",
@@ -150,7 +150,7 @@
         "tags": [
           "穏やか"
         ],
-        "count": 39
+        "count": 40
       },
       {
         "id": "scene_grandeur",
@@ -241,6 +241,6 @@
         "count": 5
       }
     ],
-    "group_count": 387
+    "group_count": 389
   }
 ]
