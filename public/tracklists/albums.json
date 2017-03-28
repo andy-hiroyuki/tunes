@@ -402,6 +402,18 @@
         ]
       },
       {
+        "id": "BlazeUp",
+        "filepath": "/materials/BlazeUp.mp3",
+        "title": "Blaze Up！",
+        "time": 144,
+        "desc": "ギター音源「V-METAL」を入手して最初に作った曲です。ボス戦をイメージしました。シンプルなループで汎用性は高いと思います。攻撃SEなどを考えて、メロディなどをシンプルにしています。",
+        "tags": [
+          "RPG",
+          "バトル",
+          "疾走感"
+        ]
+      },
+      {
         "id": "Fanfare",
         "filepath": "/materials/Fanfare.mp3",
         "title": "ファンファーレ",
@@ -5611,6 +5623,18 @@
         ]
       },
       {
+        "id": "BlazeUp",
+        "filepath": "/materials/BlazeUp.mp3",
+        "title": "Blaze Up！",
+        "time": 144,
+        "desc": "ギター音源「V-METAL」を入手して最初に作った曲です。ボス戦をイメージしました。シンプルなループで汎用性は高いと思います。攻撃SEなどを考えて、メロディなどをシンプルにしています。",
+        "tags": [
+          "RPG",
+          "バトル",
+          "疾走感"
+        ]
+      },
+      {
         "id": "TakeOff",
         "filepath": "/materials/TakeOff.mp3",
         "title": "Take Off",
@@ -7088,6 +7112,18 @@
         "tags": [
           "RPG",
           "バトル"
+        ]
+      },
+      {
+        "id": "BlazeUp",
+        "filepath": "/materials/BlazeUp.mp3",
+        "title": "Blaze Up！",
+        "time": 144,
+        "desc": "ギター音源「V-METAL」を入手して最初に作った曲です。ボス戦をイメージしました。シンプルなループで汎用性は高いと思います。攻撃SEなどを考えて、メロディなどをシンプルにしています。",
+        "tags": [
+          "RPG",
+          "バトル",
+          "疾走感"
         ]
       },
       {
