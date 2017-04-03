@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title Clash at the Volcano - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('火山エリア、長居できないようなダンジョンにいかがですか？ アクションRPGにおける、バトルフィールド的な場面で演出できるかも？当サイトの「Blaze up！」と組み合わせるとボス戦感が増してオススメです。', ["RPG","バトル","疾走感"])
+
+block track
+  .trackdetail#track_id(data-track="ClashattheVolcano")
+    +tracktitle("Clash at the Volcano", "2:06")
+
+    p.taglist
+      +taglist(["RPG","バトル","疾走感"])
+
+    include /generate/download/player.jade
+
+    p
+      | 火山エリア、長居できないようなダンジョンにいかがですか？ アクションRPGにおける、バトルフィールド的な場面で演出できるかも？当サイトの「Blaze up！」と組み合わせるとボス戦感が増してオススメです。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("ClashattheVolcano", "Clash at the Volcano")

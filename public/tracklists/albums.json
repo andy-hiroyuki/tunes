@@ -402,6 +402,18 @@
         ]
       },
       {
+        "id": "ClashattheVolcano",
+        "filepath": "/materials/ClashattheVolcano.mp3",
+        "title": "Clash at the Volcano",
+        "time": 126,
+        "desc": "火山エリア、長居できないようなダンジョンにいかがですか？ アクションRPGにおける、バトルフィールド的な場面で演出できるかも？当サイトの「Blaze up！」と組み合わせるとボス戦感が増してオススメです。",
+        "tags": [
+          "RPG",
+          "バトル",
+          "疾走感"
+        ]
+      },
+      {
         "id": "BlazeUp",
         "filepath": "/materials/BlazeUp.mp3",
         "title": "Blaze Up！",
@@ -5623,6 +5635,18 @@
         ]
       },
       {
+        "id": "ClashattheVolcano",
+        "filepath": "/materials/ClashattheVolcano.mp3",
+        "title": "Clash at the Volcano",
+        "time": 126,
+        "desc": "火山エリア、長居できないようなダンジョンにいかがですか？ アクションRPGにおける、バトルフィールド的な場面で演出できるかも？当サイトの「Blaze up！」と組み合わせるとボス戦感が増してオススメです。",
+        "tags": [
+          "RPG",
+          "バトル",
+          "疾走感"
+        ]
+      },
+      {
         "id": "BlazeUp",
         "filepath": "/materials/BlazeUp.mp3",
         "title": "Blaze Up！",
@@ -7112,6 +7136,18 @@
         "tags": [
           "RPG",
           "バトル"
+        ]
+      },
+      {
+        "id": "ClashattheVolcano",
+        "filepath": "/materials/ClashattheVolcano.mp3",
+        "title": "Clash at the Volcano",
+        "time": 126,
+        "desc": "火山エリア、長居できないようなダンジョンにいかがですか？ アクションRPGにおける、バトルフィールド的な場面で演出できるかも？当サイトの「Blaze up！」と組み合わせるとボス戦感が増してオススメです。",
+        "tags": [
+          "RPG",
+          "バトル",
+          "疾走感"
         ]
       },
       {
