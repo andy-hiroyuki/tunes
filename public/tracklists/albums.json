@@ -485,6 +485,18 @@
         ]
       },
       {
+        "id": "StormofJustice",
+        "filepath": "/materials/StormofJustice.mp3",
+        "title": "Storm of Justice",
+        "time": 152,
+        "desc": "疾走感あふれる王道な戦闘曲です。展開する上にセクションごとで色が違うので中盤以降の通常バトルにもどうでしょう？音の園はバトル曲が少ないのでもっと増やしていきたいですね。",
+        "tags": [
+          "RPG",
+          "バトル",
+          "疾走感"
+        ]
+      },
+      {
         "id": "Kaiteishinden",
         "filepath": "/materials/Kaiteishinden.mp3",
         "title": "海底神殿",
@@ -5659,6 +5671,18 @@
         ]
       },
       {
+        "id": "StormofJustice",
+        "filepath": "/materials/StormofJustice.mp3",
+        "title": "Storm of Justice",
+        "time": 152,
+        "desc": "疾走感あふれる王道な戦闘曲です。展開する上にセクションごとで色が違うので中盤以降の通常バトルにもどうでしょう？音の園はバトル曲が少ないのでもっと増やしていきたいですね。",
+        "tags": [
+          "RPG",
+          "バトル",
+          "疾走感"
+        ]
+      },
+      {
         "id": "TakeOff",
         "filepath": "/materials/TakeOff.mp3",
         "title": "Take Off",
@@ -7156,6 +7180,18 @@
         "title": "Blaze Up！",
         "time": 144,
         "desc": "ボス戦をイメージした曲ですが、シンプルなループで汎用性は高いと思います。もう少し展開させても良かったのですが、これはこれでありかなと・・・。",
+        "tags": [
+          "RPG",
+          "バトル",
+          "疾走感"
+        ]
+      },
+      {
+        "id": "StormofJustice",
+        "filepath": "/materials/StormofJustice.mp3",
+        "title": "Storm of Justice",
+        "time": 152,
+        "desc": "疾走感あふれる王道な戦闘曲です。展開する上にセクションごとで色が違うので中盤以降の通常バトルにもどうでしょう？音の園はバトル曲が少ないのでもっと増やしていきたいですね。",
         "tags": [
           "RPG",
           "バトル",
