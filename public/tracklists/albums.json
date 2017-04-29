@@ -1489,11 +1489,11 @@
         ]
       },
       {
-        "id": "Plankton",
-        "filepath": "/materials/Plankton.mp3",
-        "title": "プランクトン",
+        "id": "Kurage",
+        "filepath": "/materials/Kurage.mp3",
+        "title": "海月",
         "time": 337,
-        "desc": "...こ、これが...プランク..トン..!?",
+        "desc": "...こ、これが...くら..げ..!?",
         "tags": [
           "アクア カクテル",
           "神秘的"
@@ -5106,11 +5106,11 @@
         ]
       },
       {
-        "id": "Plankton",
-        "filepath": "/materials/Plankton.mp3",
-        "title": "プランクトン",
+        "id": "Kurage",
+        "filepath": "/materials/Kurage.mp3",
+        "title": "海月",
         "time": 337,
-        "desc": "...こ、これが...プランク..トン..!?",
+        "desc": "...こ、これが...くら..げ..!?",
         "tags": [
           "アクア カクテル",
           "神秘的"
