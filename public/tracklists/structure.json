@@ -56,7 +56,7 @@
         "tags": [
           "アクア カクテル"
         ],
-        "count": 4
+        "count": 8
       },
       {
         "id": "game_detective",
@@ -123,7 +123,7 @@
         "count": 10
       }
     ],
-    "group_count": 225
+    "group_count": 229
   },
   {
     "group_id": "scenes",
@@ -134,7 +134,7 @@
         "tags": [
           "明るい"
         ],
-        "count": 45
+        "count": 48
       },
       {
         "id": "scene_dark",
@@ -166,7 +166,7 @@
         "tags": [
           "神秘的"
         ],
-        "count": 80
+        "count": 84
       },
       {
         "id": "scene_speedy",
@@ -174,7 +174,7 @@
         "tags": [
           "疾走感"
         ],
-        "count": 25
+        "count": 26
       },
       {
         "id": "scene_tense",
@@ -241,6 +241,6 @@
         "count": 5
       }
     ],
-    "group_count": 393
+    "group_count": 401
   }
 ]

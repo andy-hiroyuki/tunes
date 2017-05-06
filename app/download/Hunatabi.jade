@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 舟旅 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('ゆらゆら揺られて、水に導かれて海のお散歩。', ["アクア カクテル","神秘的","明るい"])
+
+block track
+  .trackdetail#track_id(data-track="Hunatabi")
+    +tracktitle("舟旅", "4:28")
+
+    p.taglist
+      +taglist(["アクア カクテル","神秘的","明るい"])
+
+    include /generate/download/player.jade
+
+    p
+      | ゆらゆら揺られて、水に導かれて海のお散歩。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Hunatabi", "舟旅")
