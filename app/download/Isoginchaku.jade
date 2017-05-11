@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title イソギンチャク - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('別名「海のゆりかご」通称「クマノミ大好きっ子」', ["アクア カクテル","神秘的","明るい"])
+
+block track
+  .trackdetail#track_id(data-track="Isoginchaku")
+    +tracktitle("イソギンチャク", "4:47")
+
+    p.taglist
+      +taglist(["アクア カクテル","神秘的","明るい"])
+
+    include /generate/download/player.jade
+
+    p
+      | 別名「海のゆりかご」通称「クマノミ大好きっ子」
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Isoginchaku", "イソギンチャク")
