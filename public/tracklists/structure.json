@@ -64,7 +64,7 @@
         "tags": [
           "探偵"
         ],
-        "count": 9
+        "count": 10
       },
       {
         "id": "game_horror",
@@ -123,7 +123,7 @@
         "count": 10
       }
     ],
-    "group_count": 230
+    "group_count": 231
   },
   {
     "group_id": "scenes",
@@ -222,7 +222,7 @@
         "tags": [
           "オープニング"
         ],
-        "count": 13
+        "count": 14
       },
       {
         "id": "scene_ending",
@@ -241,6 +241,6 @@
         "count": 5
       }
     ],
-    "group_count": 403
+    "group_count": 404
   }
 ]

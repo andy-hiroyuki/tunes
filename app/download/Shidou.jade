@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 始動 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('ハードボイルドなイメージですが、ロックなサウンドトラックっぽい曲調のオープニングです。下記の"Main Street"とは違ったオープニングに・・・。', ["探偵","オープニング"])
+
+block track
+  .trackdetail#track_id(data-track="Shidou")
+    +tracktitle("始動", "2:04")
+
+    p.taglist
+      +taglist(["探偵","オープニング"])
+
+    include /generate/download/player.jade
+
+    p
+      | ハードボイルドなイメージですが、ロックなサウンドトラックっぽい曲調のオープニングです。下記の"Main Street"とは違ったオープニングに・・・。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Shidou", "始動")
