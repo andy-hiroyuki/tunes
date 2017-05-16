@@ -308,6 +308,18 @@
         ]
       },
       {
+        "id": "Shinwa",
+        "filepath": "/materials/Shinwa.mp3",
+        "title": "神話",
+        "time": 186,
+        "desc": "オーソドックスなスタイルの弾き語りです。物語の導入や伝承などを演出する際にいかがでしょう？旋律が中世よりも少しアジアっぽいかもしれませんが、どちらもいけると思います(多分) ",
+        "tags": [
+          "RPG",
+          "オープニング",
+          "神秘的"
+        ]
+      },
+      {
         "id": "BattleField",
         "filepath": "/materials/BattleField.mp3",
         "title": "バトルフィールド",
@@ -2432,7 +2444,7 @@
         "id": "CoolDown",
         "filepath": "/materials/CoolDown.mp3",
         "title": "Cool Down",
-        "time": 165,
+        "time": 164,
         "desc": "",
         "tags": [
           "真冬のアンビエント",
@@ -4957,6 +4969,18 @@
         ]
       },
       {
+        "id": "Shinwa",
+        "filepath": "/materials/Shinwa.mp3",
+        "title": "神話",
+        "time": 186,
+        "desc": "オーソドックスなスタイルの弾き語りです。物語の導入や伝承などを演出する際にいかがでしょう？旋律が中世よりも少しアジアっぽいかもしれませんが、どちらもいけると思います(多分) ",
+        "tags": [
+          "RPG",
+          "オープニング",
+          "神秘的"
+        ]
+      },
+      {
         "id": "Inishienoiseki",
         "filepath": "/materials/Inishienoiseki.mp3",
         "title": "古の遺跡",
@@ -5534,7 +5558,7 @@
         "id": "CoolDown",
         "filepath": "/materials/CoolDown.mp3",
         "title": "Cool Down",
-        "time": 165,
+        "time": 164,
         "desc": "",
         "tags": [
           "真冬のアンビエント",
@@ -7578,6 +7602,18 @@
           "オープニング",
           "神秘的",
           "壮大"
+        ]
+      },
+      {
+        "id": "Shinwa",
+        "filepath": "/materials/Shinwa.mp3",
+        "title": "神話",
+        "time": 186,
+        "desc": "オーソドックスなスタイルの弾き語りです。物語の導入や伝承などを演出する際にいかがでしょう？旋律が中世よりも少しアジアっぽいかもしれませんが、どちらもいけると思います(多分) ",
+        "tags": [
+          "RPG",
+          "オープニング",
+          "神秘的"
         ]
       },
       {

@@ -16,7 +16,7 @@
         "tags": [
           "RPG"
         ],
-        "count": 23
+        "count": 24
       },
       {
         "id": "game_saga",
@@ -123,7 +123,7 @@
         "count": 10
       }
     ],
-    "group_count": 231
+    "group_count": 232
   },
   {
     "group_id": "scenes",
@@ -166,7 +166,7 @@
         "tags": [
           "神秘的"
         ],
-        "count": 85
+        "count": 86
       },
       {
         "id": "scene_speedy",
@@ -222,7 +222,7 @@
         "tags": [
           "オープニング"
         ],
-        "count": 14
+        "count": 15
       },
       {
         "id": "scene_ending",
@@ -241,6 +241,6 @@
         "count": 5
       }
     ],
-    "group_count": 404
+    "group_count": 406
   }
 ]
