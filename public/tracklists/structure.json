@@ -104,7 +104,7 @@
         "tags": [
           "大自然シリーズ"
         ],
-        "count": 17
+        "count": 18
       },
       {
         "id": "game_ambient_xmas",
@@ -123,7 +123,7 @@
         "count": 10
       }
     ],
-    "group_count": 232
+    "group_count": 233
   },
   {
     "group_id": "scenes",
@@ -166,7 +166,7 @@
         "tags": [
           "神秘的"
         ],
-        "count": 86
+        "count": 87
       },
       {
         "id": "scene_speedy",
@@ -241,6 +241,6 @@
         "count": 5
       }
     ],
-    "group_count": 406
+    "group_count": 407
   }
 ]
