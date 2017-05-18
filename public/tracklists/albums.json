@@ -2434,6 +2434,17 @@
           "大自然シリーズ",
           "神秘的"
         ]
+      },
+      {
+        "id": "LandscapeintheMist",
+        "filepath": "/materials/LandscapeintheMist.mp3",
+        "title": "Landscape in the Mist",
+        "time": 171,
+        "desc": "",
+        "tags": [
+          "大自然シリーズ",
+          "神秘的"
+        ]
       }
     ]
   },
@@ -5558,6 +5569,17 @@
         "id": "Claudia",
         "filepath": "/materials/Claudia.mp3",
         "title": "Claudia",
+        "time": 171,
+        "desc": "",
+        "tags": [
+          "大自然シリーズ",
+          "神秘的"
+        ]
+      },
+      {
+        "id": "LandscapeintheMist",
+        "filepath": "/materials/LandscapeintheMist.mp3",
+        "title": "Landscape in the Mist",
         "time": 171,
         "desc": "",
         "tags": [
