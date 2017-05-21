@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title モダンルーム - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('日常に溶け込むようなピアノ曲です。少し不思議な雰囲気。', ["夏恋","ピアノ","明るい","穏やか"])
+
+block track
+  .trackdetail#track_id(data-track="ModernRoom")
+    +tracktitle("モダンルーム", "2:30")
+
+    p.taglist
+      +taglist(["夏恋","ピアノ","明るい","穏やか"])
+
+    include /generate/download/player.jade
+
+    p
+      | 日常に溶け込むようなピアノ曲です。少し不思議な雰囲気。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("ModernRoom", "モダンルーム")
