@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 無垢な日常 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('コンセプトはモダンルームと同様ですが、こちらはより落ち着きのある日常イメージ。何でもない日々がとてもかけがいのないもの、それを忘れたくないと思います。', ["夏恋","ピアノ","明るい","穏やか"])
+
+block track
+  .trackdetail#track_id(data-track="Mukunanichijou")
+    +tracktitle("無垢な日常", "3:03")
+
+    p.taglist
+      +taglist(["夏恋","ピアノ","明るい","穏やか"])
+
+    include /generate/download/player.jade
+
+    p
+      | コンセプトはモダンルームと同様ですが、こちらはより落ち着きのある日常イメージ。何でもない日々がとてもかけがいのないもの、それを忘れたくないと思います。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Mukunanichijou", "無垢な日常")

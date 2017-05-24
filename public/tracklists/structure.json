@@ -40,7 +40,7 @@
         "tags": [
           "夏恋"
         ],
-        "count": 17
+        "count": 18
       },
       {
         "id": "game_wafu",
@@ -123,7 +123,7 @@
         "count": 10
       }
     ],
-    "group_count": 236
+    "group_count": 237
   },
   {
     "group_id": "scenes",
@@ -134,7 +134,7 @@
         "tags": [
           "明るい"
         ],
-        "count": 50
+        "count": 51
       },
       {
         "id": "scene_dark",
@@ -150,7 +150,7 @@
         "tags": [
           "穏やか"
         ],
-        "count": 41
+        "count": 42
       },
       {
         "id": "scene_grandeur",
@@ -206,7 +206,7 @@
         "tags": [
           "ピアノ"
         ],
-        "count": 22
+        "count": 23
       },
       {
         "id": "scene_battle",
@@ -241,6 +241,6 @@
         "count": 5
       }
     ],
-    "group_count": 412
+    "group_count": 415
   }
 ]
