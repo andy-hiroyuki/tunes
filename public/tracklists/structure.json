@@ -40,7 +40,7 @@
         "tags": [
           "夏恋"
         ],
-        "count": 18
+        "count": 19
       },
       {
         "id": "game_wafu",
@@ -123,7 +123,7 @@
         "count": 10
       }
     ],
-    "group_count": 237
+    "group_count": 238
   },
   {
     "group_id": "scenes",
@@ -142,7 +142,7 @@
         "tags": [
           "暗い"
         ],
-        "count": 41
+        "count": 42
       },
       {
         "id": "scene_honobono",
@@ -206,7 +206,7 @@
         "tags": [
           "ピアノ"
         ],
-        "count": 23
+        "count": 24
       },
       {
         "id": "scene_battle",
@@ -241,6 +241,6 @@
         "count": 5
       }
     ],
-    "group_count": 415
+    "group_count": 417
   }
 ]
