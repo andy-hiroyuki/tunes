@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 蜃気楼 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('まるで蜃気楼のような、さっきまでは無かったものが急に現れる、よく見るといつもと違う景色、そのような不思議な現象をイメージしました。怖いとまではいきませんが、不思議でちょっと不気味・・・そのような演出にいかがでしょう？', ["夏恋","ピアノ","神秘的"])
+
+block track
+  .trackdetail#track_id(data-track="Shinkirou")
+    +tracktitle("蜃気楼", "1:43")
+
+    p.taglist
+      +taglist(["夏恋","ピアノ","神秘的"])
+
+    include /generate/download/player.jade
+
+    p
+      | まるで蜃気楼のような、さっきまでは無かったものが急に現れる、よく見るといつもと違う景色、そのような不思議な現象をイメージしました。怖いとまではいきませんが、不思議でちょっと不気味・・・そのような演出にいかがでしょう？
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Shinkirou", "蜃気楼")
