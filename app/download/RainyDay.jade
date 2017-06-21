@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title Rainy Day - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('晴れない空、気持ち、胸騒ぎなど、不安定な気持ちの揺れを表現してみました。後半に向かって、徐々にその気持ちに変化が現れるような展開にしています。どんよりとした日常シーン、イベントにいかがでしょうか？', ["夏恋","ピアノ","神秘的","悲しい"])
+
+block track
+  .trackdetail#track_id(data-track="RainyDay")
+    +tracktitle("Rainy Day", "2:05")
+
+    p.taglist
+      +taglist(["夏恋","ピアノ","神秘的","悲しい"])
+
+    include /generate/download/player.jade
+
+    p
+      | 晴れない空、気持ち、胸騒ぎなど、不安定な気持ちの揺れを表現してみました。後半に向かって、徐々にその気持ちに変化が現れるような展開にしています。どんよりとした日常シーン、イベントにいかがでしょうか？
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("RainyDay", "Rainy Day")
