@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title リゾート気分で - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('リゾートホテルに泊まりながら青い空と海、ビーチでトロピカルジュースでも飲みながらバケーションを満喫したいと思って...そんな欲望からこの曲は生まれました。いつか現実でこの気分を味わうという野望を抱き、今日もこの曲を流して寝ます。「サマーバケーション」とセットで使っていただけると、よりリゾート気分になれるかもしれません。', ["夏恋","ピアノ","明るい","穏やか"])
+
+block track
+  .trackdetail#track_id(data-track="ResortKibunde")
+    +tracktitle("リゾート気分で", "5:34")
+
+    p.taglist
+      +taglist(["夏恋","ピアノ","明るい","穏やか"])
+
+    include /generate/download/player.jade
+
+    p
+      | リゾートホテルに泊まりながら青い空と海、ビーチでトロピカルジュースでも飲みながらバケーションを満喫したいと思って...そんな欲望からこの曲は生まれました。いつか現実でこの気分を味わうという野望を抱き、今日もこの曲を流して寝ます。「サマーバケーション」とセットで使っていただけると、よりリゾート気分になれるかもしれません。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("ResortKibunde", "リゾート気分で")

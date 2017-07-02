@@ -16,7 +16,15 @@
         "tags": [
           "RPG"
         ],
-        "count": 19
+        "count": 24
+      },
+      {
+        "id": "game_saga",
+        "nm": "タクティカルサーガ",
+        "tags": [
+          "タクティカルサーガ"
+        ],
+        "count": 5
       },
       {
         "id": "game_baroque",
@@ -32,7 +40,7 @@
         "tags": [
           "夏恋"
         ],
-        "count": 14
+        "count": 21
       },
       {
         "id": "game_wafu",
@@ -40,7 +48,7 @@
         "tags": [
           "和風短編曲集"
         ],
-        "count": 9
+        "count": 37
       },
       {
         "id": "game_aquacocktail",
@@ -48,7 +56,7 @@
         "tags": [
           "アクア カクテル"
         ],
-        "count": 1
+        "count": 9
       },
       {
         "id": "game_detective",
@@ -56,7 +64,7 @@
         "tags": [
           "探偵"
         ],
-        "count": 9
+        "count": 10
       },
       {
         "id": "game_horror",
@@ -72,7 +80,7 @@
         "tags": [
           "エレクトロン"
         ],
-        "count": 7
+        "count": 8
       },
       {
         "id": "game_lastmonth",
@@ -91,15 +99,31 @@
         "count": 4
       },
       {
+        "id": "game_daishizen",
+        "nm": "大自然 ~癒やしの空間~",
+        "tags": [
+          "大自然シリーズ"
+        ],
+        "count": 20
+      },
+      {
+        "id": "game_ambient_xmas",
+        "nm": "真冬のアンビエント",
+        "tags": [
+          "真冬のアンビエント"
+        ],
+        "count": 25
+      },
+      {
         "id": "game_other",
         "nm": "その他",
         "tags": [
           "その他"
         ],
-        "count": 9
+        "count": 10
       }
     ],
-    "group_count": 139
+    "group_count": 240
   },
   {
     "group_id": "scenes",
@@ -110,7 +134,7 @@
         "tags": [
           "明るい"
         ],
-        "count": 29
+        "count": 51
       },
       {
         "id": "scene_dark",
@@ -118,7 +142,7 @@
         "tags": [
           "暗い"
         ],
-        "count": 30
+        "count": 42
       },
       {
         "id": "scene_honobono",
@@ -126,7 +150,7 @@
         "tags": [
           "穏やか"
         ],
-        "count": 24
+        "count": 42
       },
       {
         "id": "scene_grandeur",
@@ -134,7 +158,7 @@
         "tags": [
           "壮大"
         ],
-        "count": 28
+        "count": 31
       },
       {
         "id": "scene_mysterious",
@@ -142,7 +166,7 @@
         "tags": [
           "神秘的"
         ],
-        "count": 28
+        "count": 91
       },
       {
         "id": "scene_speedy",
@@ -150,7 +174,7 @@
         "tags": [
           "疾走感"
         ],
-        "count": 16
+        "count": 26
       },
       {
         "id": "scene_tense",
@@ -158,7 +182,7 @@
         "tags": [
           "緊張感"
         ],
-        "count": 40
+        "count": 58
       },
       {
         "id": "scene_night",
@@ -166,7 +190,7 @@
         "tags": [
           "夜"
         ],
-        "count": 5
+        "count": 8
       },
       {
         "id": "scene_cyber",
@@ -174,7 +198,7 @@
         "tags": [
           "サイバー"
         ],
-        "count": 7
+        "count": 8
       },
       {
         "id": "scene_piano",
@@ -182,7 +206,7 @@
         "tags": [
           "ピアノ"
         ],
-        "count": 18
+        "count": 26
       },
       {
         "id": "scene_battle",
@@ -190,7 +214,7 @@
         "tags": [
           "バトル"
         ],
-        "count": 7
+        "count": 12
       },
       {
         "id": "scene_opening",
@@ -198,7 +222,7 @@
         "tags": [
           "オープニング"
         ],
-        "count": 10
+        "count": 15
       },
       {
         "id": "scene_ending",
@@ -217,6 +241,6 @@
         "count": 5
       }
     ],
-    "group_count": 253
+    "group_count": 421
   }
 ]

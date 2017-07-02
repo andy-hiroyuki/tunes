@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 縁側 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('縁側を通して感じる様々な物語をイメージしました。ノスタルジックな雰囲気ですが、やはり明るいというよりかはどこか儚いものを感じますね。和風ノベルなどのシリアスなシーンなどでいかがでしょう？', ["和風短編曲集","神秘的","暗い","悲しい"])
+
+block track
+  .trackdetail#track_id(data-track="Engawa")
+    +tracktitle("縁側", "3:14")
+
+    p.taglist
+      +taglist(["和風短編曲集","神秘的","暗い","悲しい"])
+
+    include /generate/download/player.jade
+
+    p
+      | 縁側を通して感じる様々な物語をイメージしました。ノスタルジックな雰囲気ですが、やはり明るいというよりかはどこか儚いものを感じますね。和風ノベルなどのシリアスなシーンなどでいかがでしょう？
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Engawa", "縁側")

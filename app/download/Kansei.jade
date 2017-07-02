@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 閑静 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('対峙、厳粛、冷戦、うかつにすぐ動けないような状態などをイメージしました。まだ作戦に迷ってる感じがでているかも。', ["和風短編曲集","緊張感","暗い"])
+
+block track
+  .trackdetail#track_id(data-track="Kansei")
+    +tracktitle("閑静", "2:17")
+
+    p.taglist
+      +taglist(["和風短編曲集","緊張感","暗い"])
+
+    include /generate/download/player.jade
+
+    p
+      | 対峙、厳粛、冷戦、うかつにすぐ動けないような状態などをイメージしました。まだ作戦に迷ってる感じがでているかも。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Kansei", "閑静")

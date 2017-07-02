@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 花鳥風月 ~動~ - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('同曲名に低音を足したバージョンになります。原曲とはまた違った、ゆったりとした温かみのある雰囲気に♪風情漂う町並み、和を感じさせる場面でのイベントや会話シーンにいかがでしょうか？', ["和風短編曲集","穏やか","安らぎ","明るい"])
+
+block track
+  .trackdetail#track_id(data-track="KachouhuugetsuDou")
+    +tracktitle("花鳥風月 ~動~", "2:30")
+
+    p.taglist
+      +taglist(["和風短編曲集","穏やか","安らぎ","明るい"])
+
+    include /generate/download/player.jade
+
+    p
+      | 同曲名に低音を足したバージョンになります。原曲とはまた違った、ゆったりとした温かみのある雰囲気に♪風情漂う町並み、和を感じさせる場面でのイベントや会話シーンにいかがでしょうか？
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("KachouhuugetsuDou", "花鳥風月 ~動~")

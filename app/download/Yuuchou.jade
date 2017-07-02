@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 勇調 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('迷いが消え、恐れぬ心を持って前へ進まんとする者へ捧げる調べ。和風ノベルなどで主人公の心境に変化があったり、物語に転機が訪れた時などに一発流してもらえると中盤以降の雰囲気が出せるかもしれません。もう後には引けない、といったイメージでしょうか。', ["和風短編曲集","緊張感","明るい"])
+
+block track
+  .trackdetail#track_id(data-track="Yuuchou")
+    +tracktitle("勇調", "3:15")
+
+    p.taglist
+      +taglist(["和風短編曲集","緊張感","明るい"])
+
+    include /generate/download/player.jade
+
+    p
+      | 迷いが消え、恐れぬ心を持って前へ進まんとする者へ捧げる調べ。和風ノベルなどで主人公の心境に変化があったり、物語に転機が訪れた時などに一発流してもらえると中盤以降の雰囲気が出せるかもしれません。もう後には引けない、といったイメージでしょうか。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Yuuchou", "勇調")

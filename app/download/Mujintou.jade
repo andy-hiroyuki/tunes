@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 無人島 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('無人島に一人ぼっち。そんな曲。でもワリと聴きやすくて良い曲だと思います、多分。不思議な場所や、遠い場所へ来て故郷を振り返るシーンなどにいかがでしょう。', ["アクア カクテル","神秘的","明るい"])
+
+block track
+  .trackdetail#track_id(data-track="Mujintou")
+    +tracktitle("無人島", "5:10")
+
+    p.taglist
+      +taglist(["アクア カクテル","神秘的","明るい"])
+
+    include /generate/download/player.jade
+
+    p
+      | 無人島に一人ぼっち。そんな曲。でもワリと聴きやすくて良い曲だと思います、多分。不思議な場所や、遠い場所へ来て故郷を振り返るシーンなどにいかがでしょう。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Mujintou", "無人島")

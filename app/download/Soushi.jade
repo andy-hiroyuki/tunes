@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 創祀 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('全ての始りを物語るメロディ、それはなぜか悲しくもあり、懐かしくもあります。どこかもの悲しく感じるその理由は、物語というのは人の過ち無くして紡げないからかもしれません。過去を知り、未来を想い、今を生きる、不思議なメロディ。物語の過去や、歴史を語る重要なシーンにいかがでしょう？', ["和風短編曲集","緊張感","暗い","悲しい","神秘的"])
+
+block track
+  .trackdetail#track_id(data-track="Soushi")
+    +tracktitle("創祀", "3:05")
+
+    p.taglist
+      +taglist(["和風短編曲集","緊張感","暗い","悲しい","神秘的"])
+
+    include /generate/download/player.jade
+
+    p
+      | 全ての始りを物語るメロディ、それはなぜか悲しくもあり、懐かしくもあります。どこかもの悲しく感じるその理由は、物語というのは人の過ち無くして紡げないからかもしれません。過去を知り、未来を想い、今を生きる、不思議なメロディ。物語の過去や、歴史を語る重要なシーンにいかがでしょう？
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Soushi", "創祀")

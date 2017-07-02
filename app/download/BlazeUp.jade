@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title Blaze Up！ - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('ボス戦をイメージした曲ですが、シンプルなループで汎用性は高いと思います。もう少し展開させても良かったのですが、これはこれでありかなと・・・。', ["RPG","バトル","疾走感"])
+
+block track
+  .trackdetail#track_id(data-track="BlazeUp")
+    +tracktitle("Blaze Up！", "2:24")
+
+    p.taglist
+      +taglist(["RPG","バトル","疾走感"])
+
+    include /generate/download/player.jade
+
+    p
+      | ボス戦をイメージした曲ですが、シンプルなループで汎用性は高いと思います。もう少し展開させても良かったのですが、これはこれでありかなと・・・。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("BlazeUp", "Blaze Up！")

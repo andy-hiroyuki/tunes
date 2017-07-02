@@ -2,7 +2,17 @@
 @main_color_dark: #01014B;
 
 #download {
+  height: auto;
+  background: url(/assets/img/sono_dark.png) center center / cover no-repeat fixed;
+  padding-bottom: 40px;
+  color: #fff;
+
   .container {
+    max-width: 600px;
+    margin: 1.5em auto;
+    background-color: #222;
+    border-radius: 4px;
+
     .inner {
       padding: 2em 2em 1em;
 
@@ -19,6 +29,7 @@
     section {
       display: flex;
       justify-content: center;
+      margin-bottom: 2em;
     }
     #download_btn {
       cursor: pointer;
@@ -27,7 +38,6 @@
       font-size: 14px;
       color: rgb(255,255,255);
       background-color: rgb(255,64,129);
-      margin-bottom: 2em;
       padding: 0 16px;
       height: 36px;
       border-radius: 2px;
@@ -41,9 +51,12 @@
     .btn-about {
       display: flex;
       align-items: center;
+      margin-left: 2em;
       padding: 0 16px;
       font-size: 14px;
-      color: #1812A8;
+      border-radius: 2px;
+      background: -webkit-linear-gradient(top, #01014B 0%, #1812A8 100%);
+      color: #fff;
     }
     .rule {
       margin: 0 .5em;

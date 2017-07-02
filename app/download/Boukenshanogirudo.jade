@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 冒険者のギルド - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('命知らずな冒険者たちのホームベース。クエストを受けたり、酒場でちょっと騒いだりと大忙し。ノスタルジックで哀愁漂うメロディですが、酒場やギルドだけでなく、黄昏の街、物語の演出時などにもいかがでしょうか？', ["RPG","穏やか","明るい"])
+
+block track
+  .trackdetail#track_id(data-track="Boukenshanogirudo")
+    +tracktitle("冒険者のギルド", "3:51")
+
+    p.taglist
+      +taglist(["RPG","穏やか","明るい"])
+
+    include /generate/download/player.jade
+
+    p
+      | 命知らずな冒険者たちのホームベース。クエストを受けたり、酒場でちょっと騒いだりと大忙し。ノスタルジックで哀愁漂うメロディですが、酒場やギルドだけでなく、黄昏の街、物語の演出時などにもいかがでしょうか？
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Boukenshanogirudo", "冒険者のギルド")

@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 博打 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('後ろ盾を失った者達に残された術、それ即ち「博打」なり。一歩間違えたらアウトな賭博的な場面、勝負事、対峙シーンなどにおいて一定の緊張感を演出します (したい)「異形の者」とのセットがオススメ。', ["和風短編曲集","暗い","緊張感"])
+
+block track
+  .trackdetail#track_id(data-track="Bakuchi")
+    +tracktitle("博打", "1:55")
+
+    p.taglist
+      +taglist(["和風短編曲集","暗い","緊張感"])
+
+    include /generate/download/player.jade
+
+    p
+      | 後ろ盾を失った者達に残された術、それ即ち「博打」なり。一歩間違えたらアウトな賭博的な場面、勝負事、対峙シーンなどにおいて一定の緊張感を演出します (したい)「異形の者」とのセットがオススメ。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Bakuchi", "博打")

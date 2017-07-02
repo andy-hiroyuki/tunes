@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 夜城 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('日が落ちて真っ暗になった辺り一帯。そこで行われる戦いをイメージしました。緊迫感一歩手前な場面、城攻めのようなシーンにどうでしょう？', ["和風短編曲集","緊張感","暗い","夜"])
+
+block track
+  .trackdetail#track_id(data-track="Yajou")
+    +tracktitle("夜城", "2:31")
+
+    p.taglist
+      +taglist(["和風短編曲集","緊張感","暗い","夜"])
+
+    include /generate/download/player.jade
+
+    p
+      | 日が落ちて真っ暗になった辺り一帯。そこで行われる戦いをイメージしました。緊迫感一歩手前な場面、城攻めのようなシーンにどうでしょう？
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Yajou", "夜城")

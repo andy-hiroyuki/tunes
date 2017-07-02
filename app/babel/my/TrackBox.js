@@ -35,7 +35,7 @@ class TrackBox extends React.Component {
       },
     };
     let nodes = [];
-    nodes.push(<div style={styles.dummy}></div>);
+    nodes.push(<div key={'dummy'} style={styles.dummy}></div>);
     _.each(tracks, (t) => {
       const isSelected = (t.id === this.props.playingId);
       const isPlaying = isSelected && (this.props.status === Sound.status.PLAYING);

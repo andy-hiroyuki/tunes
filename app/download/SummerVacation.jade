@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title サマーバケーション - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('まさに「夏休み！」って感じのイメージで書きました。海とか釣りとか浜辺とか、あと遊園地とか？ そんなアウトドア的なシーンに合うと思います♪この曲を書いてる時はまさに8月末でしたが、たまにはのんびりと海でも眺めに行きたいなぁ。幼少時に流されたビーチボールを必死に追いかけて溺れた記憶があります。海水を飲んだのはトラウマですね...。', ["夏恋","ピアノ","明るい","穏やか"])
+
+block track
+  .trackdetail#track_id(data-track="SummerVacation")
+    +tracktitle("サマーバケーション", "2:45")
+
+    p.taglist
+      +taglist(["夏恋","ピアノ","明るい","穏やか"])
+
+    include /generate/download/player.jade
+
+    p
+      | まさに「夏休み！」って感じのイメージで書きました。海とか釣りとか浜辺とか、あと遊園地とか？ そんなアウトドア的なシーンに合うと思います♪この曲を書いてる時はまさに8月末でしたが、たまにはのんびりと海でも眺めに行きたいなぁ。幼少時に流されたビーチボールを必死に追いかけて溺れた記憶があります。海水を飲んだのはトラウマですね...。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("SummerVacation", "サマーバケーション")

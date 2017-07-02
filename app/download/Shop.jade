@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title ショップ - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('アイテム屋、武器屋、道具屋などをイメージしました。初期に作った「DECISION」のアルバムに入れるはずだった曲です。いつか完成させようとついに時が来ました。使える場面があったらぜひ!!', ["タクティカルサーガ","明るい"])
+
+block track
+  .trackdetail#track_id(data-track="Shop")
+    +tracktitle("ショップ", "2:02")
+
+    p.taglist
+      +taglist(["タクティカルサーガ","明るい"])
+
+    include /generate/download/player.jade
+
+    p
+      | アイテム屋、武器屋、道具屋などをイメージしました。初期に作った「DECISION」のアルバムに入れるはずだった曲です。いつか完成させようとついに時が来ました。使える場面があったらぜひ!!
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Shop", "ショップ")

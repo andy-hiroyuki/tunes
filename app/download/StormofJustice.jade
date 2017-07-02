@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title Storm of Justice - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('疾走感あふれる王道な戦闘曲です。展開する上にセクションごとで色が違うので中盤以降の通常バトルにもどうでしょう？音の園はバトル曲が少ないのでもっと増やしていきたいですね。', ["RPG","バトル","疾走感"])
+
+block track
+  .trackdetail#track_id(data-track="StormofJustice")
+    +tracktitle("Storm of Justice", "2:32")
+
+    p.taglist
+      +taglist(["RPG","バトル","疾走感"])
+
+    include /generate/download/player.jade
+
+    p
+      | 疾走感あふれる王道な戦闘曲です。展開する上にセクションごとで色が違うので中盤以降の通常バトルにもどうでしょう？音の園はバトル曲が少ないのでもっと増やしていきたいですね。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("StormofJustice", "Storm of Justice")

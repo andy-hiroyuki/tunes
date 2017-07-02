@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 虚無と私 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('どこか晴れない空、前向きになれない心、大切な何かを失ってしまった私、あなた、そんな場面をイメージして書きました。短いですが、何度もループしたり、色々な場面で流れることで、寂しさというものが身近になる曲かもしれません。', ["夏恋","ピアノ","暗い","悲しい"])
+
+block track
+  .trackdetail#track_id(data-track="Kyomutowatashi")
+    +tracktitle("虚無と私", "1:47")
+
+    p.taglist
+      +taglist(["夏恋","ピアノ","暗い","悲しい"])
+
+    include /generate/download/player.jade
+
+    p
+      | どこか晴れない空、前向きになれない心、大切な何かを失ってしまった私、あなた、そんな場面をイメージして書きました。短いですが、何度もループしたり、色々な場面で流れることで、寂しさというものが身近になる曲かもしれません。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Kyomutowatashi", "虚無と私")

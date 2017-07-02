@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 傷跡 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('兵どもが夢の跡、そんなイメージです。残された傷跡を目にして、かつての戦いを思い起こす、そんな悲しみと歴史を省みるような場面に・・・。', ["和風短編曲集","緊張感","暗い","悲しい"])
+
+block track
+  .trackdetail#track_id(data-track="Kizuato")
+    +tracktitle("傷跡", "1:39")
+
+    p.taglist
+      +taglist(["和風短編曲集","緊張感","暗い","悲しい"])
+
+    include /generate/download/player.jade
+
+    p
+      | 兵どもが夢の跡、そんなイメージです。残された傷跡を目にして、かつての戦いを思い起こす、そんな悲しみと歴史を省みるような場面に・・・。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Kizuato", "傷跡")

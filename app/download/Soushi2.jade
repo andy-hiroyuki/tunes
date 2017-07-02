@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 創始 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('「物事の始り」みたいなものをイメージした曲です。和風ゲームのタイトル画面とかどうでしょうか？', ["和風短編曲集","緊張感","穏やか","オープニング"])
+
+block track
+  .trackdetail#track_id(data-track="Soushi2")
+    +tracktitle("創始", "1:46")
+
+    p.taglist
+      +taglist(["和風短編曲集","緊張感","穏やか","オープニング"])
+
+    include /generate/download/player.jade
+
+    p
+      | 「物事の始り」みたいなものをイメージした曲です。和風ゲームのタイトル画面とかどうでしょうか？
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Soushi2", "創始")

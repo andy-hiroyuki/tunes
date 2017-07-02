@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 鳥居 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('鳥居と言えば日本です。でもこの曲は神聖な感じというよりかは、不気味寄りなイメージですね。和風ノベルとかで、これから鳥居みたいな神社的なエリアを探索する時などにいかがでしょう？', ["和風短編曲集","緊張感","暗い","神秘的"])
+
+block track
+  .trackdetail#track_id(data-track="Torii")
+    +tracktitle("鳥居", "4:03")
+
+    p.taglist
+      +taglist(["和風短編曲集","緊張感","暗い","神秘的"])
+
+    include /generate/download/player.jade
+
+    p
+      | 鳥居と言えば日本です。でもこの曲は神聖な感じというよりかは、不気味寄りなイメージですね。和風ノベルとかで、これから鳥居みたいな神社的なエリアを探索する時などにいかがでしょう？
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Torii", "鳥居")
