@@ -52,16 +52,16 @@ class MenuBox extends React.Component {
         padding: '0',
       },
     };
-    nodes.push(<Divider style={styles.divider} />);
-    nodes.push(<a href="/about.html">このサイトについて・利用規約</a>);
+    nodes.push(<Divider key={'top-divi'} style={styles.divider} />);
+    nodes.push(<a key={'top-a'} href="/about.html">このサイトについて・利用規約</a>);
     _.each(this.props.structure, (grp) => {
       let grpCnt = '';
       if (grp.group_id === 'albums') {
         grpCnt = grp.group_count;
       }
-      nodes.push(<Divider style={styles.divider} />);
+      nodes.push(<Divider key={`divi-${grp.group_id}`} style={styles.divider} />);
       nodes.push(
-        <Subheader style={styles.subheader}>
+        <Subheader key={grp.group_id} style={styles.subheader}>
           <span>{grp.group_id}</span>
           <span>{grpCnt}</span>
         </Subheader>
@@ -73,7 +73,11 @@ class MenuBox extends React.Component {
           activeStyle = { backgroundColor: '#3a34ea' };
         }
         nodes.push(
-          <ListItem style={activeStyle} innerDivStyle={styles.listitem}>
+          <ListItem
+            key={`${grp.group_id}-${album.id}`}
+            style={activeStyle}
+            innerDivStyle={styles.listitem}
+          >
             <AlbumItem
               key={`${grp.group_id}${album.id}`}
               album={album}

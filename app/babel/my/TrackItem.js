@@ -51,7 +51,7 @@ class TrackItem extends React.Component {
     let tags = [];
     _.each(t.tags, (tag) => {
       tags.push(
-        <Chip style={styles.chip} labelStyle={styles.chipInner}>
+        <Chip key={tag} style={styles.chip} labelStyle={styles.chipInner}>
           {tag}
         </Chip>
       );

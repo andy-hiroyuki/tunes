@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import injectTapEventPlugin from 'react-tap-event-plugin';
 import Main from './Main'; // Our custom react component
 
+import es6Promise from 'es6-promise';
+es6Promise.polyfill();
+
 // Needed for onTouchTap
 // Can go away when react 1.0 release
 // Check this repo:
