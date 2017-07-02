@@ -2,15 +2,8 @@ html,
 body,
 #app {
   height: 100%;
-  overflow: hidden;
-}
-@media (max-width: 400px) {
-  html,
-  body,
-  #app {
-    overflow: scroll;
-    -webkit-overflow-scrolling: touch;
-  }
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;
 }
 body {
   -webkit-font-smoothing: antialiased;
