@@ -403,6 +403,18 @@
         ]
       },
       {
+        "id": "UnderGroundRPG",
+        "filepath": "/materials/UnderGroundRPG.mp3",
+        "title": "アンダーグラウンド",
+        "time": 214,
+        "desc": "どこか、通常の生活環境とはかけ離れた場所、組織、そんなイメージで書きました。レジスタンス、スラム、廃墟都市、そんなアンダーシティやノスタルジーなイベントシーンにいかがですか？",
+        "tags": [
+          "RPG",
+          "穏やか",
+          "暗い"
+        ]
+      },
+      {
         "id": "Inishienoiseki",
         "filepath": "/materials/Inishienoiseki.mp3",
         "title": "古の遺跡",
@@ -435,6 +447,19 @@
           "RPG",
           "バトル",
           "疾走感"
+        ]
+      },
+      {
+        "id": "TheWinner",
+        "filepath": "/materials/TheWinner.mp3",
+        "title": "The Winner",
+        "time": 62,
+        "desc": "王道感あふれる勝利のテーマです。イントロに溜めがあるので、ボス戦など、特殊なバトルの勝利時にいかがでしょう？後半はループが早いので、尺的にも通常のパレードには不向きかも。",
+        "tags": [
+          "RPG",
+          "バトル",
+          "疾走感",
+          "明るい"
         ]
       },
       {
@@ -3077,6 +3102,19 @@
         ]
       },
       {
+        "id": "TheWinner",
+        "filepath": "/materials/TheWinner.mp3",
+        "title": "The Winner",
+        "time": 62,
+        "desc": "王道感あふれる勝利のテーマです。イントロに溜めがあるので、ボス戦など、特殊なバトルの勝利時にいかがでしょう？後半はループが早いので、尺的にも通常のパレードには不向きかも。",
+        "tags": [
+          "RPG",
+          "バトル",
+          "疾走感",
+          "明るい"
+        ]
+      },
+      {
         "id": "Fanfare",
         "filepath": "/materials/Fanfare.mp3",
         "title": "ファンファーレ",
@@ -3625,6 +3663,18 @@
           "暗い",
           "緊張感",
           "壮大"
+        ]
+      },
+      {
+        "id": "UnderGroundRPG",
+        "filepath": "/materials/UnderGroundRPG.mp3",
+        "title": "アンダーグラウンド",
+        "time": 214,
+        "desc": "どこか、通常の生活環境とはかけ離れた場所、組織、そんなイメージで書きました。レジスタンス、スラム、廃墟都市、そんなアンダーシティやノスタルジーなイベントシーンにいかがですか？",
+        "tags": [
+          "RPG",
+          "穏やか",
+          "暗い"
         ]
       },
       {
@@ -4209,6 +4259,18 @@
           "RPG",
           "穏やか",
           "明るい"
+        ]
+      },
+      {
+        "id": "UnderGroundRPG",
+        "filepath": "/materials/UnderGroundRPG.mp3",
+        "title": "アンダーグラウンド",
+        "time": 214,
+        "desc": "どこか、通常の生活環境とはかけ離れた場所、組織、そんなイメージで書きました。レジスタンス、スラム、廃墟都市、そんなアンダーシティやノスタルジーなイベントシーンにいかがですか？",
+        "tags": [
+          "RPG",
+          "穏やか",
+          "暗い"
         ]
       },
       {
@@ -6130,6 +6192,19 @@
         ]
       },
       {
+        "id": "TheWinner",
+        "filepath": "/materials/TheWinner.mp3",
+        "title": "The Winner",
+        "time": 62,
+        "desc": "王道感あふれる勝利のテーマです。イントロに溜めがあるので、ボス戦など、特殊なバトルの勝利時にいかがでしょう？後半はループが早いので、尺的にも通常のパレードには不向きかも。",
+        "tags": [
+          "RPG",
+          "バトル",
+          "疾走感",
+          "明るい"
+        ]
+      },
+      {
         "id": "StormofJustice",
         "filepath": "/materials/StormofJustice.mp3",
         "title": "Storm of Justice",
@@ -7719,6 +7794,19 @@
           "RPG",
           "バトル",
           "疾走感"
+        ]
+      },
+      {
+        "id": "TheWinner",
+        "filepath": "/materials/TheWinner.mp3",
+        "title": "The Winner",
+        "time": 62,
+        "desc": "王道感あふれる勝利のテーマです。イントロに溜めがあるので、ボス戦など、特殊なバトルの勝利時にいかがでしょう？後半はループが早いので、尺的にも通常のパレードには不向きかも。",
+        "tags": [
+          "RPG",
+          "バトル",
+          "疾走感",
+          "明るい"
         ]
       },
       {

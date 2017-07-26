@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title アンダーグラウンド - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('どこか、通常の生活環境とはかけ離れた場所、組織、そんなイメージで書きました。レジスタンス、スラム、廃墟都市、そんなアンダーシティやノスタルジーなイベントシーンにいかがですか？', ["RPG","穏やか","暗い"])
+
+block track
+  .trackdetail#track_id(data-track="UnderGroundRPG")
+    +tracktitle("アンダーグラウンド", "3:34")
+
+    p.taglist
+      +taglist(["RPG","穏やか","暗い"])
+
+    include /generate/download/player.jade
+
+    p
+      | どこか、通常の生活環境とはかけ離れた場所、組織、そんなイメージで書きました。レジスタンス、スラム、廃墟都市、そんなアンダーシティやノスタルジーなイベントシーンにいかがですか？
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("UnderGroundRPG", "アンダーグラウンド")
