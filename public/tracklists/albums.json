@@ -332,6 +332,19 @@
         ]
       },
       {
+        "id": "Shukumei",
+        "filepath": "/materials/Shukumei.mp3",
+        "title": "宿命",
+        "time": 102,
+        "desc": "宿命を背負った者達の物語。宿命を乗り越え、英雄は真の英雄となる。",
+        "tags": [
+          "RPG",
+          "オープニング",
+          "悲しい",
+          "壮大"
+        ]
+      },
+      {
         "id": "VillageInTheForest",
         "filepath": "/materials/VillageInTheForest.mp3",
         "title": "Village in the Forest",
@@ -414,6 +427,18 @@
         ]
       },
       {
+        "id": "TsukiyonoHourousha",
+        "filepath": "/materials/TsukiyonoHourousha.mp3",
+        "title": "月夜の放浪者",
+        "time": 116,
+        "desc": "当サイト音の園の「異邦の地図」という曲のアレンジバージョンです。その名の通り、夜の行動時に流れていそうなイメージ。夜っぽい曲は好きなので個人的にお気に入りの一曲です。",
+        "tags": [
+          "RPG",
+          "穏やか",
+          "明るい"
+        ]
+      },
+      {
         "id": "UnderGroundRPG",
         "filepath": "/materials/UnderGroundRPG.mp3",
         "title": "アンダーグラウンド",
@@ -474,16 +499,14 @@
         ]
       },
       {
-        "id": "Shukumei",
-        "filepath": "/materials/Shukumei.mp3",
-        "title": "宿命",
-        "time": 102,
-        "desc": "宿命を背負った者達の物語。宿命を乗り越え、英雄は真の英雄となる。",
+        "id": "DarkWind",
+        "filepath": "/materials/DarkWind.mp3",
+        "title": "Dark Wind",
+        "time": 163,
+        "desc": "聴いての通り不気味な感じの曲です。悪役サイドの回想時や、絶体絶命「2歩」手前くらいの場面で使用されるのがよろしいかと。。。もちろん寝る前に聴いていただいても全然OKです。（変な夢みても知りません）",
         "tags": [
           "RPG",
-          "オープニング",
-          "悲しい",
-          "壮大"
+          "緊張感"
         ]
       },
       {
@@ -532,18 +555,6 @@
           "RPG",
           "緊張感",
           "サイバー"
-        ]
-      },
-      {
-        "id": "TsukiyonoHourousha",
-        "filepath": "/materials/TsukiyonoHourousha.mp3",
-        "title": "月夜の放浪者",
-        "time": 116,
-        "desc": "当サイト音の園の「異邦の地図」という曲のアレンジバージョンです。その名の通り、夜の行動時に流れていそうなイメージ。夜っぽい曲は好きなので個人的にお気に入りの一曲です。",
-        "tags": [
-          "RPG",
-          "穏やか",
-          "明るい"
         ]
       },
       {
@@ -659,7 +670,7 @@
         "filepath": "/materials/Enjin.mp3",
         "title": "炎陣",
         "time": 125,
-        "desc": "いかにもなオーソドックスなスタイルのBGMですね。RPGのバトルマップ、会話時に流れていそうなイメージで書きました。変拍子の曲です。",
+        "desc": "RPGのバトルマップ、会話時に流れていそうなイメージで書きました。シーン的にはダンジョンの他、イベント時にもいいかも？",
         "tags": [
           "RPG",
           "バトル",
@@ -671,7 +682,7 @@
         "filepath": "/materials/Kesshuu.mp3",
         "title": "結集",
         "time": 238,
-        "desc": "最終決戦、最後の戦いを前に壮大な前触れを示すイントロが印象的な曲です。変拍子を用いてメジャーマイナーに曲が展開します。",
+        "desc": "最終決戦、最後の戦いを前に壮大な前触れを示すイントロが印象的な曲です。終盤の展開、イベント、マップなどにいかがですか？",
         "tags": [
           "RPG",
           "壮大",
@@ -683,6 +694,18 @@
   "game_saga": {
     "nm": "タクティカルサーガ",
     "tracks": [
+      {
+        "id": "EnemyRaid",
+        "filepath": "/materials/EnemyRaid.mp3",
+        "title": "Enemy Raid",
+        "time": 110,
+        "desc": "ピンチな場面って感じですね。この曲のままでそのままバトルに突入するシーンもありかも。ってことで主人公たちの状況がヤバい場面で使っていただければ光栄です。",
+        "tags": [
+          "タクティカルサーガ",
+          "緊張感",
+          "バトル"
+        ]
+      },
       {
         "id": "EdgeOfTheSteel",
         "filepath": "/materials/EdgeOfTheSteel.mp3",
@@ -719,6 +742,18 @@
         ]
       },
       {
+        "id": "Operations",
+        "filepath": "/materials/Operations.mp3",
+        "title": "Operations",
+        "time": 92,
+        "desc": "ミリタリーな疾走感溢れる曲です。出陣前の急げ、的なシーンにいかがでしょう？",
+        "tags": [
+          "タクティカルサーガ",
+          "壮大",
+          "疾走感"
+        ]
+      },
+      {
         "id": "ItsOurTurn",
         "filepath": "/materials/ItsOurTurn.mp3",
         "title": "It's our turn",
@@ -728,17 +763,6 @@
           "タクティカルサーガ",
           "壮大",
           "明るい"
-        ]
-      },
-      {
-        "id": "DarkWind",
-        "filepath": "/materials/DarkWind.mp3",
-        "title": "Dark Wind",
-        "time": 163,
-        "desc": "聴いての通り不気味な感じの曲です。悪役サイドの回想時や、絶体絶命「2歩」手前くらいの場面で使用されるのがよろしいかと。。。もちろん寝る前に聴いていただいても全然OKです。（変な夢みても知りません）",
-        "tags": [
-          "タクティカルサーガ",
-          "緊張感"
         ]
       },
       {
@@ -791,18 +815,6 @@
         ]
       },
       {
-        "id": "EnemyRaid",
-        "filepath": "/materials/EnemyRaid.mp3",
-        "title": "Enemy Raid",
-        "time": 110,
-        "desc": "ピンチな場面って感じですね。この曲のままでそのままバトルに突入するシーンもありかも。ってことで主人公たちの状況がヤバい場面で使っていただければ光栄です。",
-        "tags": [
-          "タクティカルサーガ",
-          "緊張感",
-          "バトル"
-        ]
-      },
-      {
         "id": "Sorrow",
         "filepath": "/materials/Sorrow.mp3",
         "title": "Sorrow",
@@ -813,18 +825,6 @@
           "壮大",
           "緊張感",
           "エンディング"
-        ]
-      },
-      {
-        "id": "Operations",
-        "filepath": "/materials/Operations.mp3",
-        "title": "Operations",
-        "time": 92,
-        "desc": "ディスクシステムで「グリーンベレー」っていうアクションゲームが大昔にありましたが、そんな感じです。ミリタリーなイメージがピッタリかも？ 「ミッション発生！急げ急げ、任務を遂行せよ！」特殊部隊を養成している組織などで流れていそうな曲です。例えるなら「エースコンバットで、機体に乗り込む時」みたいな？ 軍艦とか？？軍艦巻きとか？？？",
-        "tags": [
-          "タクティカルサーガ",
-          "壮大",
-          "疾走感"
         ]
       }
     ]
@@ -3108,6 +3108,18 @@
         ]
       },
       {
+        "id": "TsukiyonoHourousha",
+        "filepath": "/materials/TsukiyonoHourousha.mp3",
+        "title": "月夜の放浪者",
+        "time": 116,
+        "desc": "当サイト音の園の「異邦の地図」という曲のアレンジバージョンです。その名の通り、夜の行動時に流れていそうなイメージ。夜っぽい曲は好きなので個人的にお気に入りの一曲です。",
+        "tags": [
+          "RPG",
+          "穏やか",
+          "明るい"
+        ]
+      },
+      {
         "id": "TheWinner",
         "filepath": "/materials/TheWinner.mp3",
         "title": "The Winner",
@@ -3153,18 +3165,6 @@
         "tags": [
           "RPG",
           "壮大",
-          "明るい"
-        ]
-      },
-      {
-        "id": "TsukiyonoHourousha",
-        "filepath": "/materials/TsukiyonoHourousha.mp3",
-        "title": "月夜の放浪者",
-        "time": 116,
-        "desc": "当サイト音の園の「異邦の地図」という曲のアレンジバージョンです。その名の通り、夜の行動時に流れていそうなイメージ。夜っぽい曲は好きなので個人的にお気に入りの一曲です。",
-        "tags": [
-          "RPG",
-          "穏やか",
           "明るい"
         ]
       },
@@ -4257,18 +4257,6 @@
         ]
       },
       {
-        "id": "UnderGroundRPG",
-        "filepath": "/materials/UnderGroundRPG.mp3",
-        "title": "アンダーグラウンド",
-        "time": 214,
-        "desc": "どこか、通常の生活環境とはかけ離れた場所、組織、そんなイメージで書きました。レジスタンス、スラム、廃墟都市、そんなアンダーシティやノスタルジーなイベントシーンにいかがですか？",
-        "tags": [
-          "RPG",
-          "穏やか",
-          "暗い"
-        ]
-      },
-      {
         "id": "TsukiyonoHourousha",
         "filepath": "/materials/TsukiyonoHourousha.mp3",
         "title": "月夜の放浪者",
@@ -4278,6 +4266,18 @@
           "RPG",
           "穏やか",
           "明るい"
+        ]
+      },
+      {
+        "id": "UnderGroundRPG",
+        "filepath": "/materials/UnderGroundRPG.mp3",
+        "title": "アンダーグラウンド",
+        "time": 214,
+        "desc": "どこか、通常の生活環境とはかけ離れた場所、組織、そんなイメージで書きました。レジスタンス、スラム、廃墟都市、そんなアンダーシティやノスタルジーなイベントシーンにいかがですか？",
+        "tags": [
+          "RPG",
+          "穏やか",
+          "暗い"
         ]
       },
       {
@@ -4805,19 +4805,6 @@
         ]
       },
       {
-        "id": "BlueEarth",
-        "filepath": "/materials/BlueEarth.mp3",
-        "title": "Blue Earth",
-        "time": 158,
-        "desc": "RPGの広大なフィールドマップを意識して作曲しました。あえて冒険者たちの感情「よし、いくぞ」的な「元気モリモリ、パッパラパー♪」みたいなものは表現せず、その作品の世界観やフィールドの広さそのものを意識してみました。序盤のフィールド音楽などにオススメです。",
-        "tags": [
-          "RPG",
-          "ファンタジー",
-          "壮大",
-          "穏やか"
-        ]
-      },
-      {
         "id": "Shukumei",
         "filepath": "/materials/Shukumei.mp3",
         "title": "宿命",
@@ -4828,6 +4815,19 @@
           "オープニング",
           "悲しい",
           "壮大"
+        ]
+      },
+      {
+        "id": "BlueEarth",
+        "filepath": "/materials/BlueEarth.mp3",
+        "title": "Blue Earth",
+        "time": 158,
+        "desc": "RPGの広大なフィールドマップを意識して作曲しました。あえて冒険者たちの感情「よし、いくぞ」的な「元気モリモリ、パッパラパー♪」みたいなものは表現せず、その作品の世界観やフィールドの広さそのものを意識してみました。序盤のフィールド音楽などにオススメです。",
+        "tags": [
+          "RPG",
+          "ファンタジー",
+          "壮大",
+          "穏やか"
         ]
       },
       {
@@ -4886,7 +4886,7 @@
         "filepath": "/materials/Enjin.mp3",
         "title": "炎陣",
         "time": 125,
-        "desc": "いかにもなオーソドックスなスタイルのBGMですね。RPGのバトルマップ、会話時に流れていそうなイメージで書きました。変拍子の曲です。",
+        "desc": "RPGのバトルマップ、会話時に流れていそうなイメージで書きました。シーン的にはダンジョンの他、イベント時にもいいかも？",
         "tags": [
           "RPG",
           "バトル",
@@ -4898,7 +4898,7 @@
         "filepath": "/materials/Kesshuu.mp3",
         "title": "結集",
         "time": 238,
-        "desc": "最終決戦、最後の戦いを前に壮大な前触れを示すイントロが印象的な曲です。変拍子を用いてメジャーマイナーに曲が展開します。",
+        "desc": "最終決戦、最後の戦いを前に壮大な前触れを示すイントロが印象的な曲です。終盤の展開、イベント、マップなどにいかがですか？",
         "tags": [
           "RPG",
           "壮大",
@@ -4927,6 +4927,18 @@
           "タクティカルサーガ",
           "緊張感",
           "壮大"
+        ]
+      },
+      {
+        "id": "Operations",
+        "filepath": "/materials/Operations.mp3",
+        "title": "Operations",
+        "time": 92,
+        "desc": "ミリタリーな疾走感溢れる曲です。出陣前の急げ、的なシーンにいかがでしょう？",
+        "tags": [
+          "タクティカルサーガ",
+          "壮大",
+          "疾走感"
         ]
       },
       {
@@ -4989,18 +5001,6 @@
           "壮大",
           "緊張感",
           "エンディング"
-        ]
-      },
-      {
-        "id": "Operations",
-        "filepath": "/materials/Operations.mp3",
-        "title": "Operations",
-        "time": 92,
-        "desc": "ディスクシステムで「グリーンベレー」っていうアクションゲームが大昔にありましたが、そんな感じです。ミリタリーなイメージがピッタリかも？ 「ミッション発生！急げ急げ、任務を遂行せよ！」特殊部隊を養成している組織などで流れていそうな曲です。例えるなら「エースコンバットで、機体に乗り込む時」みたいな？ 軍艦とか？？軍艦巻きとか？？？",
-        "tags": [
-          "タクティカルサーガ",
-          "壮大",
-          "疾走感"
         ]
       },
       {
@@ -6237,6 +6237,18 @@
         ]
       },
       {
+        "id": "Operations",
+        "filepath": "/materials/Operations.mp3",
+        "title": "Operations",
+        "time": 92,
+        "desc": "ミリタリーな疾走感溢れる曲です。出陣前の急げ、的なシーンにいかがでしょう？",
+        "tags": [
+          "タクティカルサーガ",
+          "壮大",
+          "疾走感"
+        ]
+      },
+      {
         "id": "PreemptiveAttack",
         "filepath": "/materials/PreemptiveAttack.mp3",
         "title": "Preemptive Attack",
@@ -6255,18 +6267,6 @@
         "title": "Charge the Enemy",
         "time": 276,
         "desc": "一定の躍動感のある状況でありながら、静けさの後に襲ってくる襲撃にプレイヤーたちは次ぎなる作戦を実行する。静と動が入り交じる戦い。さあ、作戦開始だ！",
-        "tags": [
-          "タクティカルサーガ",
-          "壮大",
-          "疾走感"
-        ]
-      },
-      {
-        "id": "Operations",
-        "filepath": "/materials/Operations.mp3",
-        "title": "Operations",
-        "time": 92,
-        "desc": "ディスクシステムで「グリーンベレー」っていうアクションゲームが大昔にありましたが、そんな感じです。ミリタリーなイメージがピッタリかも？ 「ミッション発生！急げ急げ、任務を遂行せよ！」特殊部隊を養成している組織などで流れていそうな曲です。例えるなら「エースコンバットで、機体に乗り込む時」みたいな？ 軍艦とか？？軍艦巻きとか？？？",
         "tags": [
           "タクティカルサーガ",
           "壮大",
@@ -6490,6 +6490,17 @@
         ]
       },
       {
+        "id": "DarkWind",
+        "filepath": "/materials/DarkWind.mp3",
+        "title": "Dark Wind",
+        "time": 163,
+        "desc": "聴いての通り不気味な感じの曲です。悪役サイドの回想時や、絶体絶命「2歩」手前くらいの場面で使用されるのがよろしいかと。。。もちろん寝る前に聴いていただいても全然OKです。（変な夢みても知りません）",
+        "tags": [
+          "RPG",
+          "緊張感"
+        ]
+      },
+      {
         "id": "DarkCastle",
         "filepath": "/materials/DarkCastle.mp3",
         "title": "Dark Castle",
@@ -6510,6 +6521,18 @@
         "tags": [
           "RPG",
           "緊張感"
+        ]
+      },
+      {
+        "id": "EnemyRaid",
+        "filepath": "/materials/EnemyRaid.mp3",
+        "title": "Enemy Raid",
+        "time": 110,
+        "desc": "ピンチな場面って感じですね。この曲のままでそのままバトルに突入するシーンもありかも。ってことで主人公たちの状況がヤバい場面で使っていただければ光栄です。",
+        "tags": [
+          "タクティカルサーガ",
+          "緊張感",
+          "バトル"
         ]
       },
       {
@@ -6540,7 +6563,7 @@
         "filepath": "/materials/Kesshuu.mp3",
         "title": "結集",
         "time": 238,
-        "desc": "最終決戦、最後の戦いを前に壮大な前触れを示すイントロが印象的な曲です。変拍子を用いてメジャーマイナーに曲が展開します。",
+        "desc": "最終決戦、最後の戦いを前に壮大な前触れを示すイントロが印象的な曲です。終盤の展開、イベント、マップなどにいかがですか？",
         "tags": [
           "RPG",
           "壮大",
@@ -6572,17 +6595,6 @@
         ]
       },
       {
-        "id": "DarkWind",
-        "filepath": "/materials/DarkWind.mp3",
-        "title": "Dark Wind",
-        "time": 163,
-        "desc": "聴いての通り不気味な感じの曲です。悪役サイドの回想時や、絶体絶命「2歩」手前くらいの場面で使用されるのがよろしいかと。。。もちろん寝る前に聴いていただいても全然OKです。（変な夢みても知りません）",
-        "tags": [
-          "タクティカルサーガ",
-          "緊張感"
-        ]
-      },
-      {
         "id": "Vacant",
         "filepath": "/materials/Vacant.mp3",
         "title": "Vacant",
@@ -6592,18 +6604,6 @@
           "タクティカルサーガ",
           "緊張感",
           "神秘的"
-        ]
-      },
-      {
-        "id": "EnemyRaid",
-        "filepath": "/materials/EnemyRaid.mp3",
-        "title": "Enemy Raid",
-        "time": 110,
-        "desc": "ピンチな場面って感じですね。この曲のままでそのままバトルに突入するシーンもありかも。ってことで主人公たちの状況がヤバい場面で使っていただければ光栄です。",
-        "tags": [
-          "タクティカルサーガ",
-          "緊張感",
-          "バトル"
         ]
       },
       {
@@ -7817,6 +7817,18 @@
         ]
       },
       {
+        "id": "EnemyRaid",
+        "filepath": "/materials/EnemyRaid.mp3",
+        "title": "Enemy Raid",
+        "time": 110,
+        "desc": "ピンチな場面って感じですね。この曲のままでそのままバトルに突入するシーンもありかも。ってことで主人公たちの状況がヤバい場面で使っていただければ光栄です。",
+        "tags": [
+          "タクティカルサーガ",
+          "緊張感",
+          "バトル"
+        ]
+      },
+      {
         "id": "Senka",
         "filepath": "/materials/Senka.mp3",
         "title": "戦火",
@@ -7833,7 +7845,7 @@
         "filepath": "/materials/Enjin.mp3",
         "title": "炎陣",
         "time": 125,
-        "desc": "いかにもなオーソドックスなスタイルのBGMですね。RPGのバトルマップ、会話時に流れていそうなイメージで書きました。変拍子の曲です。",
+        "desc": "RPGのバトルマップ、会話時に流れていそうなイメージで書きました。シーン的にはダンジョンの他、イベント時にもいいかも？",
         "tags": [
           "RPG",
           "バトル",
@@ -7851,18 +7863,6 @@
           "壮大",
           "バトル",
           "疾走感"
-        ]
-      },
-      {
-        "id": "EnemyRaid",
-        "filepath": "/materials/EnemyRaid.mp3",
-        "title": "Enemy Raid",
-        "time": 110,
-        "desc": "ピンチな場面って感じですね。この曲のままでそのままバトルに突入するシーンもありかも。ってことで主人公たちの状況がヤバい場面で使っていただければ光栄です。",
-        "tags": [
-          "タクティカルサーガ",
-          "緊張感",
-          "バトル"
         ]
       },
       {
