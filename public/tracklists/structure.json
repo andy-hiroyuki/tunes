@@ -16,7 +16,7 @@
         "tags": [
           "RPG"
         ],
-        "count": 26
+        "count": 32
       },
       {
         "id": "game_saga",
@@ -24,15 +24,7 @@
         "tags": [
           "タクティカルサーガ"
         ],
-        "count": 5
-      },
-      {
-        "id": "game_baroque",
-        "nm": "バロックの城",
-        "tags": [
-          "バロック"
-        ],
-        "count": 13
+        "count": 12
       },
       {
         "id": "game_renai",
