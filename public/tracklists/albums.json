@@ -581,6 +581,18 @@
         ]
       },
       {
+        "id": "EnemyRaid",
+        "filepath": "/materials/EnemyRaid.mp3",
+        "title": "Enemy Raid",
+        "time": 110,
+        "desc": "ピンチな場面って感じですね。この曲のままでそのままバトルに突入するシーンもありかも。ってことで主人公たちの状況がヤバい場面で使っていただければ光栄です。",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "バトル"
+        ]
+      },
+      {
         "id": "StormofJustice",
         "filepath": "/materials/StormofJustice.mp3",
         "title": "Storm of Justice",
@@ -695,18 +707,6 @@
     "nm": "タクティカルサーガ",
     "tracks": [
       {
-        "id": "EnemyRaid",
-        "filepath": "/materials/EnemyRaid.mp3",
-        "title": "Enemy Raid",
-        "time": 110,
-        "desc": "ピンチな場面って感じですね。この曲のままでそのままバトルに突入するシーンもありかも。ってことで主人公たちの状況がヤバい場面で使っていただければ光栄です。",
-        "tags": [
-          "タクティカルサーガ",
-          "緊張感",
-          "バトル"
-        ]
-      },
-      {
         "id": "EdgeOfTheSteel",
         "filepath": "/materials/EdgeOfTheSteel.mp3",
         "title": "Edge of the Steel",
@@ -746,7 +746,7 @@
         "filepath": "/materials/Operations.mp3",
         "title": "Operations",
         "time": 92,
-        "desc": "ミリタリーな疾走感溢れる曲です。出陣前の急げ、的なシーンにいかがでしょう？",
+        "desc": "出陣前の急げ、的なシーンにいかがでしょう？ シミュレーションRPGっぽくないかも...",
         "tags": [
           "タクティカルサーガ",
           "壮大",
@@ -4934,7 +4934,7 @@
         "filepath": "/materials/Operations.mp3",
         "title": "Operations",
         "time": 92,
-        "desc": "ミリタリーな疾走感溢れる曲です。出陣前の急げ、的なシーンにいかがでしょう？",
+        "desc": "出陣前の急げ、的なシーンにいかがでしょう？ シミュレーションRPGっぽくないかも...",
         "tags": [
           "タクティカルサーガ",
           "壮大",
@@ -6241,7 +6241,7 @@
         "filepath": "/materials/Operations.mp3",
         "title": "Operations",
         "time": 92,
-        "desc": "ミリタリーな疾走感溢れる曲です。出陣前の急げ、的なシーンにいかがでしょう？",
+        "desc": "出陣前の急げ、的なシーンにいかがでしょう？ シミュレーションRPGっぽくないかも...",
         "tags": [
           "タクティカルサーガ",
           "壮大",
@@ -6530,7 +6530,7 @@
         "time": 110,
         "desc": "ピンチな場面って感じですね。この曲のままでそのままバトルに突入するシーンもありかも。ってことで主人公たちの状況がヤバい場面で使っていただければ光栄です。",
         "tags": [
-          "タクティカルサーガ",
+          "RPG",
           "緊張感",
           "バトル"
         ]
@@ -7805,6 +7805,18 @@
         ]
       },
       {
+        "id": "EnemyRaid",
+        "filepath": "/materials/EnemyRaid.mp3",
+        "title": "Enemy Raid",
+        "time": 110,
+        "desc": "ピンチな場面って感じですね。この曲のままでそのままバトルに突入するシーンもありかも。ってことで主人公たちの状況がヤバい場面で使っていただければ光栄です。",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "バトル"
+        ]
+      },
+      {
         "id": "StormofJustice",
         "filepath": "/materials/StormofJustice.mp3",
         "title": "Storm of Justice",
@@ -7814,18 +7826,6 @@
           "RPG",
           "バトル",
           "疾走感"
-        ]
-      },
-      {
-        "id": "EnemyRaid",
-        "filepath": "/materials/EnemyRaid.mp3",
-        "title": "Enemy Raid",
-        "time": 110,
-        "desc": "ピンチな場面って感じですね。この曲のままでそのままバトルに突入するシーンもありかも。ってことで主人公たちの状況がヤバい場面で使っていただければ光栄です。",
-        "tags": [
-          "タクティカルサーガ",
-          "緊張感",
-          "バトル"
         ]
       },
       {
