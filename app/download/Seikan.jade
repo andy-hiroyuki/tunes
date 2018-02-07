@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 生還 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('戦いに勝利したテーマですが、少し趣旨を変えて生き残ったが緊張感のある状態が続いている、そんな曲です。後半の幻想的な感じが好きなんですよねー。', ["RPG","緊張感","サイバー"])
+
+block track
+  .trackdetail#track_id(data-track="Seikan")
+    +tracktitle("生還", "0:38")
+
+    p.taglist
+      +taglist(["RPG","緊張感","サイバー"])
+
+    include /generate/download/player.jade
+
+    p
+      | 戦いに勝利したテーマですが、少し趣旨を変えて生き残ったが緊張感のある状態が続いている、そんな曲です。後半の幻想的な感じが好きなんですよねー。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Seikan", "生還")

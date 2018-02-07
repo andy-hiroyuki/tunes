@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title Encounter!! - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('ノーマルバトル。サイレンが鳴り響くようなブラスの不協和音を取り入れています。同カテゴリー「Beast」というバトル曲と旋律を共有していますので、セットでお使い頂けると一体感が増します。', ["RPG","緊張感","バトル"])
+
+block track
+  .trackdetail#track_id(data-track="Encounter")
+    +tracktitle("Encounter!!", "2:09")
+
+    p.taglist
+      +taglist(["RPG","緊張感","バトル"])
+
+    include /generate/download/player.jade
+
+    p
+      | ノーマルバトル。サイレンが鳴り響くようなブラスの不協和音を取り入れています。同カテゴリー「Beast」というバトル曲と旋律を共有していますので、セットでお使い頂けると一体感が増します。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Encounter", "Encounter!!")

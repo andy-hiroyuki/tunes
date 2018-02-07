@@ -8,3 +8,5 @@ build
 /node_modules/
 /public/download/*.html
 /resources/materials/*.mp3
+
+resources/materials/.DS_Store

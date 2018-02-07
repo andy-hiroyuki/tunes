@@ -16,7 +16,7 @@
         "tags": [
           "RPG"
         ],
-        "count": 34
+        "count": 44
       },
       {
         "id": "game_saga",
@@ -40,7 +40,7 @@
         "tags": [
           "和風短編曲集"
         ],
-        "count": 38
+        "count": 39
       },
       {
         "id": "game_aquacocktail",
@@ -115,7 +115,7 @@
         "count": 10
       }
     ],
-    "group_count": 243
+    "group_count": 254
   },
   {
     "group_id": "scenes",
@@ -126,7 +126,7 @@
         "tags": [
           "明るい"
         ],
-        "count": 52
+        "count": 53
       },
       {
         "id": "scene_dark",
@@ -142,7 +142,7 @@
         "tags": [
           "穏やか"
         ],
-        "count": 43
+        "count": 44
       },
       {
         "id": "scene_grandeur",
@@ -150,7 +150,7 @@
         "tags": [
           "壮大"
         ],
-        "count": 31
+        "count": 34
       },
       {
         "id": "scene_mysterious",
@@ -174,7 +174,7 @@
         "tags": [
           "緊張感"
         ],
-        "count": 59
+        "count": 67
       },
       {
         "id": "scene_night",
@@ -190,7 +190,7 @@
         "tags": [
           "サイバー"
         ],
-        "count": 8
+        "count": 10
       },
       {
         "id": "scene_piano",
@@ -206,7 +206,7 @@
         "tags": [
           "バトル"
         ],
-        "count": 13
+        "count": 16
       },
       {
         "id": "scene_opening",
@@ -233,6 +233,6 @@
         "count": 5
       }
     ],
-    "group_count": 428
+    "group_count": 446
   }
 ]

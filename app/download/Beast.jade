@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title Beast - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('とてつもない強敵をイメージしたボス曲です。ハードなギターサウンドとメタル的なドラミング、壮大なストリングスを加えてあ〜らボスBGMがいっちょ上がり♪', ["RPG","バトル","壮大"])
+
+block track
+  .trackdetail#track_id(data-track="Beast")
+    +tracktitle("Beast", "2:02")
+
+    p.taglist
+      +taglist(["RPG","バトル","壮大"])
+
+    include /generate/download/player.jade
+
+    p
+      | とてつもない強敵をイメージしたボス曲です。ハードなギターサウンドとメタル的なドラミング、壮大なストリングスを加えてあ〜らボスBGMがいっちょ上がり♪
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Beast", "Beast")

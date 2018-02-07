@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 探索 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('暗い場所へ侵入するイメージです。ストリングスの低音とハープが、サスペンス的な要素を垣間見せるようなダンジョン曲。', ["RPG","緊張感","サイバー"])
+
+block track
+  .trackdetail#track_id(data-track="Tansaku")
+    +tracktitle("探索", "2:37")
+
+    p.taglist
+      +taglist(["RPG","緊張感","サイバー"])
+
+    include /generate/download/player.jade
+
+    p
+      | 暗い場所へ侵入するイメージです。ストリングスの低音とハープが、サスペンス的な要素を垣間見せるようなダンジョン曲。
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Tansaku", "探索")

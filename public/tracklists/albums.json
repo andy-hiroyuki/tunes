@@ -462,6 +462,66 @@
         ]
       },
       {
+        "id": "kokuu",
+        "filepath": "/materials/kokuu.mp3",
+        "title": "虚空",
+        "time": 203,
+        "desc": "退廃的な廃墟にたたずむ者達。それは人なのか、それとも・・・",
+        "tags": [
+          "RPG",
+          "緊張感",
+          null
+        ]
+      },
+      {
+        "id": "Tansaku",
+        "filepath": "/materials/Tansaku.mp3",
+        "title": "探索",
+        "time": 157,
+        "desc": "暗い場所へ侵入するイメージです。ストリングスの低音とハープが、サスペンス的な要素を垣間見せるようなダンジョン曲。",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "サイバー"
+        ]
+      },
+      {
+        "id": "Kiki",
+        "filepath": "/materials/Kiki.mp3",
+        "title": "危機",
+        "time": 110,
+        "desc": "スピード感のある疾走曲。急げ的なシーン、まずい場面に出くわした、そんなヤバスな場面で使ってください。",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "バトル"
+        ]
+      },
+      {
+        "id": "Encounter",
+        "filepath": "/materials/Encounter.mp3",
+        "title": "Encounter!!",
+        "time": 129,
+        "desc": "ノーマルバトル。サイレンが鳴り響くようなブラスの不協和音を取り入れています。同カテゴリー「Beast」というバトル曲と旋律を共有していますので、セットでお使い頂けると一体感が増します。",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "バトル"
+        ]
+      },
+      {
+        "id": "Seikan",
+        "filepath": "/materials/Seikan.mp3",
+        "title": "生還",
+        "time": 38,
+        "desc": "戦いに勝利したテーマですが、少し趣旨を変えて生き残ったが緊張感のある状態が続いている、そんな曲です。後半の幻想的な感じが好きなんですよねー。",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "サイバー"
+        ]
+      },
+      {
         "id": "ClashattheVolcano",
         "filepath": "/materials/ClashattheVolcano.mp3",
         "title": "Clash at the Volcano",
@@ -558,6 +618,54 @@
         ]
       },
       {
+        "id": "Kuroikage",
+        "filepath": "/materials/Kuroikage.mp3",
+        "title": "黒い影",
+        "time": 77,
+        "desc": "黒幕登場、といった曲。短いですが、エネミーサイドの演出にいかがでしょうか？",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "壮大"
+        ]
+      },
+      {
+        "id": "Kinpaku",
+        "filepath": "/materials/Kinpaku.mp3",
+        "title": "緊迫",
+        "time": 130,
+        "desc": "「おい・・・しっかりしろ！！」「う・・・」「いったい何が合った！？」「じ、じつは・・・」",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "壮大"
+        ]
+      },
+      {
+        "id": "Beast",
+        "filepath": "/materials/Beast.mp3",
+        "title": "Beast",
+        "time": 122,
+        "desc": "とてつもない強敵をイメージしたボス曲です。ハードなギターサウンドとメタル的なドラミング、壮大なストリングスを加えてあ〜らボスBGMがいっちょ上がり♪",
+        "tags": [
+          "RPG",
+          "バトル",
+          "壮大"
+        ]
+      },
+      {
+        "id": "Gameover",
+        "filepath": "/materials/Gameover.mp3",
+        "title": "ゲームオーバー",
+        "time": 39,
+        "desc": "まぁ、実際ゲームオーバーかどうかはさておき、全滅してしまったような感じでしょうか。物語の続きがあるような避けられない全滅は好きです。　",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "悲しい"
+        ]
+      },
+      {
         "id": "Sadame",
         "filepath": "/materials/Sadame.mp3",
         "title": "運命 ~さだめ~",
@@ -602,6 +710,18 @@
           "RPG",
           "バトル",
           "疾走感"
+        ]
+      },
+      {
+        "id": "Kakurichiiki",
+        "filepath": "/materials/Kakurichiiki.mp3",
+        "title": "隔離地域",
+        "time": 165,
+        "desc": "スラムのような、あまり治安の良くない地域。",
+        "tags": [
+          "RPG",
+          null,
+          null
         ]
       },
       {
@@ -1279,6 +1399,18 @@
           "和風短編曲集",
           "緊張感",
           "暗い"
+        ]
+      },
+      {
+        "id": "Wamichi",
+        "filepath": "/materials/Wamichi.mp3",
+        "title": "和道",
+        "time": 112,
+        "desc": "p^[]",
+        "tags": [
+          "和風短編曲集",
+          "穏やか",
+          "明るい"
         ]
       },
       {
@@ -3392,6 +3524,18 @@
         ]
       },
       {
+        "id": "Wamichi",
+        "filepath": "/materials/Wamichi.mp3",
+        "title": "和道",
+        "time": 112,
+        "desc": "p^[]",
+        "tags": [
+          "和風短編曲集",
+          "穏やか",
+          "明るい"
+        ]
+      },
+      {
         "id": "Murabito",
         "filepath": "/materials/Murabito.mp3",
         "title": "村人",
@@ -4516,6 +4660,18 @@
         ]
       },
       {
+        "id": "Wamichi",
+        "filepath": "/materials/Wamichi.mp3",
+        "title": "和道",
+        "time": 112,
+        "desc": "p^[]",
+        "tags": [
+          "和風短編曲集",
+          "穏やか",
+          "明るい"
+        ]
+      },
+      {
         "id": "Ishindenshin",
         "filepath": "/materials/Ishindenshin.mp3",
         "title": "以心伝心",
@@ -4876,6 +5032,42 @@
           "RPG",
           "壮大",
           "明るい"
+        ]
+      },
+      {
+        "id": "Kuroikage",
+        "filepath": "/materials/Kuroikage.mp3",
+        "title": "黒い影",
+        "time": 77,
+        "desc": "黒幕登場、といった曲。短いですが、エネミーサイドの演出にいかがでしょうか？",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "壮大"
+        ]
+      },
+      {
+        "id": "Kinpaku",
+        "filepath": "/materials/Kinpaku.mp3",
+        "title": "緊迫",
+        "time": 130,
+        "desc": "「おい・・・しっかりしろ！！」「う・・・」「いったい何が合った！？」「じ、じつは・・・」",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "壮大"
+        ]
+      },
+      {
+        "id": "Beast",
+        "filepath": "/materials/Beast.mp3",
+        "title": "Beast",
+        "time": 122,
+        "desc": "とてつもない強敵をイメージしたボス曲です。ハードなギターサウンドとメタル的なドラミング、壮大なストリングスを加えてあ〜らボスBGMがいっちょ上がり♪",
+        "tags": [
+          "RPG",
+          "バトル",
+          "壮大"
         ]
       },
       {
@@ -6514,6 +6706,66 @@
         ]
       },
       {
+        "id": "kokuu",
+        "filepath": "/materials/kokuu.mp3",
+        "title": "虚空",
+        "time": 203,
+        "desc": "退廃的な廃墟にたたずむ者達。それは人なのか、それとも・・・",
+        "tags": [
+          "RPG",
+          "緊張感",
+          null
+        ]
+      },
+      {
+        "id": "Tansaku",
+        "filepath": "/materials/Tansaku.mp3",
+        "title": "探索",
+        "time": 157,
+        "desc": "暗い場所へ侵入するイメージです。ストリングスの低音とハープが、サスペンス的な要素を垣間見せるようなダンジョン曲。",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "サイバー"
+        ]
+      },
+      {
+        "id": "Kiki",
+        "filepath": "/materials/Kiki.mp3",
+        "title": "危機",
+        "time": 110,
+        "desc": "スピード感のある疾走曲。急げ的なシーン、まずい場面に出くわした、そんなヤバスな場面で使ってください。",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "バトル"
+        ]
+      },
+      {
+        "id": "Encounter",
+        "filepath": "/materials/Encounter.mp3",
+        "title": "Encounter!!",
+        "time": 129,
+        "desc": "ノーマルバトル。サイレンが鳴り響くようなブラスの不協和音を取り入れています。同カテゴリー「Beast」というバトル曲と旋律を共有していますので、セットでお使い頂けると一体感が増します。",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "バトル"
+        ]
+      },
+      {
+        "id": "Seikan",
+        "filepath": "/materials/Seikan.mp3",
+        "title": "生還",
+        "time": 38,
+        "desc": "戦いに勝利したテーマですが、少し趣旨を変えて生き残ったが緊張感のある状態が続いている、そんな曲です。後半の幻想的な感じが好きなんですよねー。",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "サイバー"
+        ]
+      },
+      {
         "id": "DarkWind",
         "filepath": "/materials/DarkWind.mp3",
         "title": "Dark Wind",
@@ -6534,6 +6786,42 @@
           "RPG",
           "緊張感",
           "サイバー"
+        ]
+      },
+      {
+        "id": "Kuroikage",
+        "filepath": "/materials/Kuroikage.mp3",
+        "title": "黒い影",
+        "time": 77,
+        "desc": "黒幕登場、といった曲。短いですが、エネミーサイドの演出にいかがでしょうか？",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "壮大"
+        ]
+      },
+      {
+        "id": "Kinpaku",
+        "filepath": "/materials/Kinpaku.mp3",
+        "title": "緊迫",
+        "time": 130,
+        "desc": "「おい・・・しっかりしろ！！」「う・・・」「いったい何が合った！？」「じ、じつは・・・」",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "壮大"
+        ]
+      },
+      {
+        "id": "Gameover",
+        "filepath": "/materials/Gameover.mp3",
+        "title": "ゲームオーバー",
+        "time": 39,
+        "desc": "まぁ、実際ゲームオーバーかどうかはさておき、全滅してしまったような感じでしょうか。物語の続きがあるような避けられない全滅は好きです。　",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "悲しい"
         ]
       },
       {
@@ -7324,6 +7612,30 @@
     "nm": "サイバー",
     "tracks": [
       {
+        "id": "Tansaku",
+        "filepath": "/materials/Tansaku.mp3",
+        "title": "探索",
+        "time": 157,
+        "desc": "暗い場所へ侵入するイメージです。ストリングスの低音とハープが、サスペンス的な要素を垣間見せるようなダンジョン曲。",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "サイバー"
+        ]
+      },
+      {
+        "id": "Seikan",
+        "filepath": "/materials/Seikan.mp3",
+        "title": "生還",
+        "time": 38,
+        "desc": "戦いに勝利したテーマですが、少し趣旨を変えて生き残ったが緊張感のある状態が続いている、そんな曲です。後半の幻想的な感じが好きなんですよねー。",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "サイバー"
+        ]
+      },
+      {
         "id": "DarkCastle",
         "filepath": "/materials/DarkCastle.mp3",
         "title": "Dark Castle",
@@ -7804,6 +8116,30 @@
         ]
       },
       {
+        "id": "Kiki",
+        "filepath": "/materials/Kiki.mp3",
+        "title": "危機",
+        "time": 110,
+        "desc": "スピード感のある疾走曲。急げ的なシーン、まずい場面に出くわした、そんなヤバスな場面で使ってください。",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "バトル"
+        ]
+      },
+      {
+        "id": "Encounter",
+        "filepath": "/materials/Encounter.mp3",
+        "title": "Encounter!!",
+        "time": 129,
+        "desc": "ノーマルバトル。サイレンが鳴り響くようなブラスの不協和音を取り入れています。同カテゴリー「Beast」というバトル曲と旋律を共有していますので、セットでお使い頂けると一体感が増します。",
+        "tags": [
+          "RPG",
+          "緊張感",
+          "バトル"
+        ]
+      },
+      {
         "id": "ClashattheVolcano",
         "filepath": "/materials/ClashattheVolcano.mp3",
         "title": "Clash at the Volcano",
@@ -7838,6 +8174,18 @@
           "バトル",
           "疾走感",
           "明るい"
+        ]
+      },
+      {
+        "id": "Beast",
+        "filepath": "/materials/Beast.mp3",
+        "title": "Beast",
+        "time": 122,
+        "desc": "とてつもない強敵をイメージしたボス曲です。ハードなギターサウンドとメタル的なドラミング、壮大なストリングスを加えてあ〜らボスBGMがいっちょ上がり♪",
+        "tags": [
+          "RPG",
+          "バトル",
+          "壮大"
         ]
       },
       {

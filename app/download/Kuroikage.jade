@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 黒い影 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('黒幕登場、といった曲。短いですが、エネミーサイドの演出にいかがでしょうか？', ["RPG","緊張感","壮大"])
+
+block track
+  .trackdetail#track_id(data-track="Kuroikage")
+    +tracktitle("黒い影", "1:17")
+
+    p.taglist
+      +taglist(["RPG","緊張感","壮大"])
+
+    include /generate/download/player.jade
+
+    p
+      | 黒幕登場、といった曲。短いですが、エネミーサイドの演出にいかがでしょうか？
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Kuroikage", "黒い影")

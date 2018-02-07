@@ -1,0 +1,26 @@
+extends /generate/download/_layout.jade
+
+include /generate/download/_mixins.jade
+
+block title
+  title 緊迫 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
+
+block meta
+  +meta('「おい・・・しっかりしろ！！」「う・・・」「いったい何が合った！？」「じ、じつは・・・」', ["RPG","緊張感","壮大"])
+
+block track
+  .trackdetail#track_id(data-track="Kinpaku")
+    +tracktitle("緊迫", "2:10")
+
+    p.taglist
+      +taglist(["RPG","緊張感","壮大"])
+
+    include /generate/download/player.jade
+
+    p
+      | 「おい・・・しっかりしろ！！」「う・・・」「いったい何が合った！？」「じ、じつは・・・」
+
+block tunescript
+  script
+    :coffee
+      Tunes.appendSingleTrack("Kinpaku", "緊迫")

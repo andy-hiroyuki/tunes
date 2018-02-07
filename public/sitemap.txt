@@ -36,6 +36,11 @@ http://oto-no-sono.com/download/Shop.html
 http://oto-no-sono.com/download/TsukiyonoHourousha.html
 http://oto-no-sono.com/download/UnderGroundRPG.html
 http://oto-no-sono.com/download/Inishienoiseki.html
+http://oto-no-sono.com/download/kokuu.html
+http://oto-no-sono.com/download/Tansaku.html
+http://oto-no-sono.com/download/Kiki.html
+http://oto-no-sono.com/download/Encounter.html
+http://oto-no-sono.com/download/Seikan.html
 http://oto-no-sono.com/download/ClashattheVolcano.html
 http://oto-no-sono.com/download/BlazeUp.html
 http://oto-no-sono.com/download/TheWinner.html
@@ -44,10 +49,15 @@ http://oto-no-sono.com/download/Shourinomegami.html
 http://oto-no-sono.com/download/Fanfare.html
 http://oto-no-sono.com/download/AudienceWithTheKing.html
 http://oto-no-sono.com/download/DarkCastle.html
+http://oto-no-sono.com/download/Kuroikage.html
+http://oto-no-sono.com/download/Kinpaku.html
+http://oto-no-sono.com/download/Beast.html
+http://oto-no-sono.com/download/Gameover.html
 http://oto-no-sono.com/download/Sadame.html
 http://oto-no-sono.com/download/Dungeon.html
 http://oto-no-sono.com/download/EnemyRaid.html
 http://oto-no-sono.com/download/StormofJustice.html
+http://oto-no-sono.com/download/Kakurichiiki.html
 http://oto-no-sono.com/download/Kaiteishinden.html
 http://oto-no-sono.com/download/Senka.html
 http://oto-no-sono.com/download/TakeOff.html
@@ -120,6 +130,7 @@ http://oto-no-sono.com/download/Kansei.html
 http://oto-no-sono.com/download/Inaka.html
 http://oto-no-sono.com/download/Matsuribayashi.html
 http://oto-no-sono.com/download/Rakujitsu.html
+http://oto-no-sono.com/download/Wamichi.html
 http://oto-no-sono.com/download/Setsunanokoku.html
 http://oto-no-sono.com/download/Soushi.html
 http://oto-no-sono.com/download/Ishindenshin.html
