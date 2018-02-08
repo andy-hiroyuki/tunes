@@ -6,14 +6,14 @@ block title
   title 虚空 - mp3ファイルのダウンロード | フリー音楽素材 BGM「音の園」
 
 block meta
-  +meta('退廃的な廃墟にたたずむ者達。それは人なのか、それとも・・・', ["RPG","緊張感",""])
+  +meta('退廃的な廃墟にたたずむ者達。それは人なのか、それとも・・・', ["RPG","緊張感","悲しい"])
 
 block track
-  .trackdetail#track_id(data-track="kokuu")
+  .trackdetail#track_id(data-track="Kokuu")
     +tracktitle("虚空", "3:23")
 
     p.taglist
-      +taglist(["RPG","緊張感",""])
+      +taglist(["RPG","緊張感","悲しい"])
 
     include /generate/download/player.jade
 
@@ -23,4 +23,4 @@ block track
 block tunescript
   script
     :coffee
-      Tunes.appendSingleTrack("kokuu", "虚空")
+      Tunes.appendSingleTrack("Kokuu", "虚空")

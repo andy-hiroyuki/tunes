@@ -462,15 +462,15 @@
         ]
       },
       {
-        "id": "kokuu",
-        "filepath": "/materials/kokuu.mp3",
+        "id": "Kokuu",
+        "filepath": "/materials/Kokuu.mp3",
         "title": "虚空",
         "time": 203,
         "desc": "退廃的な廃墟にたたずむ者達。それは人なのか、それとも・・・",
         "tags": [
           "RPG",
           "緊張感",
-          null
+          "悲しい"
         ]
       },
       {
@@ -478,7 +478,7 @@
         "filepath": "/materials/Tansaku.mp3",
         "title": "探索",
         "time": 157,
-        "desc": "暗い場所へ侵入するイメージです。ストリングスの低音とハープが、サスペンス的な要素を垣間見せるようなダンジョン曲。",
+        "desc": "暗い場所へ侵入するイメージです。ストリングスの低音とピアノ、そしてブラスが奏でる、サスペンス的な要素を垣間見せるようなダンジョン曲。",
         "tags": [
           "RPG",
           "緊張感",
@@ -486,10 +486,10 @@
         ]
       },
       {
-        "id": "Kiki",
-        "filepath": "/materials/Kiki.mp3",
-        "title": "危機",
-        "time": 110,
+        "id": "Isogeisoge",
+        "filepath": "/materials/Isogeisoge.mp3",
+        "title": "急げ急げ!!",
+        "time": 109,
         "desc": "スピード感のある疾走曲。急げ的なシーン、まずい場面に出くわした、そんなヤバスな場面で使ってください。",
         "tags": [
           "RPG",
@@ -6706,15 +6706,15 @@
         ]
       },
       {
-        "id": "kokuu",
-        "filepath": "/materials/kokuu.mp3",
+        "id": "Kokuu",
+        "filepath": "/materials/Kokuu.mp3",
         "title": "虚空",
         "time": 203,
         "desc": "退廃的な廃墟にたたずむ者達。それは人なのか、それとも・・・",
         "tags": [
           "RPG",
           "緊張感",
-          null
+          "悲しい"
         ]
       },
       {
@@ -6722,7 +6722,7 @@
         "filepath": "/materials/Tansaku.mp3",
         "title": "探索",
         "time": 157,
-        "desc": "暗い場所へ侵入するイメージです。ストリングスの低音とハープが、サスペンス的な要素を垣間見せるようなダンジョン曲。",
+        "desc": "暗い場所へ侵入するイメージです。ストリングスの低音とピアノ、そしてブラスが奏でる、サスペンス的な要素を垣間見せるようなダンジョン曲。",
         "tags": [
           "RPG",
           "緊張感",
@@ -6730,10 +6730,10 @@
         ]
       },
       {
-        "id": "Kiki",
-        "filepath": "/materials/Kiki.mp3",
-        "title": "危機",
-        "time": 110,
+        "id": "Isogeisoge",
+        "filepath": "/materials/Isogeisoge.mp3",
+        "title": "急げ急げ!!",
+        "time": 109,
         "desc": "スピード感のある疾走曲。急げ的なシーン、まずい場面に出くわした、そんなヤバスな場面で使ってください。",
         "tags": [
           "RPG",
@@ -7616,7 +7616,7 @@
         "filepath": "/materials/Tansaku.mp3",
         "title": "探索",
         "time": 157,
-        "desc": "暗い場所へ侵入するイメージです。ストリングスの低音とハープが、サスペンス的な要素を垣間見せるようなダンジョン曲。",
+        "desc": "暗い場所へ侵入するイメージです。ストリングスの低音とピアノ、そしてブラスが奏でる、サスペンス的な要素を垣間見せるようなダンジョン曲。",
         "tags": [
           "RPG",
           "緊張感",
@@ -8116,10 +8116,10 @@
         ]
       },
       {
-        "id": "Kiki",
-        "filepath": "/materials/Kiki.mp3",
-        "title": "危機",
-        "time": 110,
+        "id": "Isogeisoge",
+        "filepath": "/materials/Isogeisoge.mp3",
+        "title": "急げ急げ!!",
+        "time": 109,
         "desc": "スピード感のある疾走曲。急げ的なシーン、まずい場面に出くわした、そんなヤバスな場面で使ってください。",
         "tags": [
           "RPG",
