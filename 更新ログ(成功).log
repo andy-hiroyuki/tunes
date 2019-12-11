@@ -1,0 +1,68 @@
+Last login: Thu Dec 12 00:45:06 on ttys001
+andou-no-iMac:~ andohiroyuki$ /Users/andohiroyuki/github/tunes/update.sh ; exit;
+Fetching gem metadata from https://rubygems.org/.............
+Resolving dependencies...
+Using cicphash 1.1.0
+Using apetag 1.1.5
+Fetching awesome_print 1.7.0
+Installing awesome_print 1.7.0
+Using bundler 1.16.1
+Using flacinfo-rb 1.0
+Using moumar-wmainfo-rb 0.8
+Using mp4info 1.7.3
+Fetching ruby-mp3info 0.8.9
+Installing ruby-mp3info 0.8.9
+Using ruby-ogginfo 0.7.2
+Fetching wavefile 0.7.0
+Installing wavefile 0.7.0
+Using ruby-audioinfo 0.5.2
+Using taglib-ruby 0.7.1
+Bundle complete! 3 Gemfile dependencies, 12 gems now installed.
+Bundled gems are installed into `/usr/local/bundle`
+decision-overture
+decision-boukennohajimari
+decision-chiheisennokanatahe
+decision-mikainochihe
+decision-sworddancer
+decision-seichounokane
+decision-oukokukishidan
+decision-saikai
+:
+:
+(省略)
+:
+:
+NightWalking
+8bit_rockman5
+8bit_retrotitle
+8bit_fly
+8bit_stage2
+8bit_sousakaishi
+AttakaShichu
+HealingVoyager
+MachiNoTomoshibi
+npm WARN eslint-config-airbnb@9.0.1 requires a peer of eslint@^2.9.0 but none was installed.
+npm WARN eslint-config-airbnb@9.0.1 requires a peer of eslint-plugin-jsx-a11y@^1.2.0 but none was installed.
+npm WARN eslint-config-airbnb-base@3.0.1 requires a peer of eslint@^2.9.0 but none was installed.
+npm WARN material-ui@0.15.4 requires a peer of react-tap-event-plugin@^1.0.0 but none was installed.
+
+> Tunes@0.1.0 pages /app
+> gulp pages
+
+[16:16:38] Using gulpfile /app/gulpfile.js
+[16:16:38] Starting 'less'...
+[16:16:38] Starting 'jade'...
+[16:16:38] Starting 'coffee'...
+[16:16:38] Finished 'coffee' after 3.89 ms
+Transformers.coffee is deprecated, you must replace the :coffee jade filter, with :coffee-script and install jstransformer-coffee-script before you update to jade@2.0.0.
+[16:16:39] Finished 'less' after 1.03 s
+[16:16:55] Finished 'jade' after 17 s
+[16:16:55] Starting 'pages'...
+[16:16:55] Finished 'pages' after 8 μs
+logout
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+[プロセスが完了しました]
